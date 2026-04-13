@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- The Knight Icon & Identity -->
-  <img src="https://img.icons8.com/ios-filled/100/A1A1A6/chess-knight.png" alt="Knight" width="80" />
+  <img src="https://img.icons8.com/ios-filled/100/A1A1A6/knight.png" alt="Knight" width="80" />
 
   # Raushan Kumar
 
@@ -31,7 +31,7 @@
 
 ---
 
-### ♟️ The Knight’s Perspective
+### ♞ The Knight’s Perspective
 In chess, the knight is the only piece that leaps over obstacles. In engineering, I apply this **non-linear logic** to bypass technical debt and architecture bottlenecks. I don’t just build features; I architect **systems** that endure.
 
 *   **The Move**: Expertise in the MERN stack with a focus on **Explainable AI (XAI)** and high-performance UI Intelligence.
@@ -64,7 +64,7 @@ In chess, the knight is the only piece that leaps over obstacles. In engineering
 
 ### 📺 Latest Broadcasts from @codePressure
 <!-- YOUTUBE-FEED-START -->
-*Stay tuned as I broadcast the latest maneuvers in full-stack dev and AI intelligence.*
+*The Strategist's Feed is currently being synchronized—Action trigger required.*
 <!-- YOUTUBE-FEED-END -->
 
 ---
@@ -100,17 +100,12 @@ In chess, the knight is the only piece that leaps over obstacles. In engineering
 
 ---
 
-### ♟️ The Knight’s Hall (Trophies)
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raushankumar0720&theme=flat&no-bg=true&margin-w=10&column=4&rank=SSS,SS,S,AAA,AA,A&row=2" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🐍 Combat Zone (Contribution Snake)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Raushankumar0720/Raushankumar0720/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <br>
+  <i>Snake animation will appear in the "output" branch once the GitHub Action run completes.</i>
 </p>
 
 ---
@@ -118,7 +113,7 @@ In chess, the knight is the only piece that leaps over obstacles. In engineering
 ### 📊 Recon (GitHub Insights)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raushankumar0720&show_icons=true&theme=transparent&hide_border=true&title_color=A1A1A6&icon_color=A1A1A6&text_color=A1A1A6" alt="Raushan's Stats" width="400" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Raushankumar0720&show_icons=true&theme=transparent&hide_border=true&title_color=A1A1A6&icon_color=A1A1A6&text_color=A1A1A6" alt="Raushan's Stats" width="400" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raushankumar0720&theme=transparent&hide_border=true&stroke=A1A1A6&ring=A1A1A6&fire=A1A1A6&currStreakLabel=A1A1A6&sideNums=A1A1A6" alt="GitHub Streak" width="400" />
 </p>
@@ -131,7 +126,7 @@ In chess, the knight is the only piece that leaps over obstacles. In engineering
     <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-000000?style=for-the-badge&logo=powerpages&logoColor=white" alt="Portfolio CTA" />
   </a>
   <br><br>
-  <img src="https://hits.dwyl.com/Raushankumar0720/Raushankumar0720.svg?color=A1A1A6" alt="Hits" />
+  <img src="https://komarev.com/ghpvc/?username=Raushankumar0720&color=A1A1A6&style=flat-square&label=STRATEGIC+SESSIONS" alt="Profile Counter" />
 </div>
 
 <br>
