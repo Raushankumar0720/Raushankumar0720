@@ -18,7 +18,7 @@
     Solving engineering problems with a strategist's precision and a developer's grit.
   </p>
 
-  <img src="https://hits.dwyl.com/Raushankumar0720/Raushankumar0720.svg?color=A1A1A6" alt="Hits" />
+  <img src="https://komarev.com/ghpvc/?username=Raushankumar0720&color=A1A1A6" alt="Profile Views" />
 
 </div>
 
