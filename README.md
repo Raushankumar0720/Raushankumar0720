@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- The Knight Icon & Identity -->
-  <img src="https://img.icons8.com/ios-filled/100/A1A1A6/chess-knight.png" alt="Knight" width="80" />
+  <img src="https://img.icons8.com/ios-filled/100/A1A1A6/knight.png" alt="Knight" width="80" />
 
   # Raushan Kumar
 
@@ -103,7 +103,7 @@ In chess, the knight is the only piece that leaps over obstacles. In engineering
 
 ### ♟️ The Knight’s Hall (Trophies)
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raushankumar0720&theme=flat&no-bg=true&margin-w=10&column=4&rank=SSS,SS,S,AAA,AA,A&row=2" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.zeabur.app/?username=Raushankumar0720&theme=flat&no-bg=true&margin-w=10&column=4&rank=SSS,SS,S,AAA,AA,A&row=2" alt="GitHub Trophies" />
 </p>
 
 ---
