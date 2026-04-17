@@ -48,7 +48,7 @@
 
   <!-- Connect Section (Monochrome) -->
   <p align="center">
-    <a href="https://raushan-kumar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://raushankumar-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/raushan150720/"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://x.com/RaushanKum68222"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
     <a href="https://www.youtube.com/@codePressure"><img src="https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -142,15 +142,15 @@ Right now, my primary focus is bridging the gap between theoretical system archi
 - [No frameWorks/Libraries -- Plane HTML-CSS only](https://www.youtube.com/watch?v=1BkfQJZBYXE)
 - [i re-Created ui clone of this website .. CHECK ....](https://www.youtube.com/watch?v=71TR5ATxnJQ)
 - [“No Frameworks — I Recreated a Premium Product Website UI &lpar;Bevel Clone&rpar;”  #webdevelopment #html#css](https://www.youtube.com/watch?v=BD47qUWGgIY)
-- [I Rebuilt the Ethena Crypto Landing Page UI Using Only HTML &amp; CSS](https://www.youtube.com/watch?v=DqeaifbGOuk)
-- [“I Rebuilt the LiveCoinWatch Crypto Dashboard UI Using Only HTML &amp; CSS” #webdevelopment](https://www.youtube.com/watch?v=OcSvDbHuSr0)
+- [I Rebuilt the Ethena Crypto Landing Page UI Using Only HTML & CSS](https://www.youtube.com/watch?v=DqeaifbGOuk)
+- [“I Rebuilt the LiveCoinWatch Crypto Dashboard UI Using Only HTML & CSS” #webdevelopment](https://www.youtube.com/watch?v=OcSvDbHuSr0)
 <!-- YOUTUBE-FEED:END -->
 
 ---
 
 <div align="center">
   <h3>See what I've built ♞</h3>
-  <a href="https://raushan-kumar.vercel.app/">
+  <a href="https://raushankumar-dev.vercel.app/">
     <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-000000?style=for-the-badge&logo=powerpages&logoColor=white" alt="Portfolio CTA" />
   </a>
 </div>
@@ -160,4 +160,3 @@ Right now, my primary focus is bridging the gap between theoretical system archi
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A1A1A6&height=60&section=footer" width="100%" />
 </p>
-
