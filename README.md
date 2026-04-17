@@ -1,35 +1,44 @@
 <div align="center">
 
   <!-- The Knight Icon & Identity -->
-  <img src="https://img.icons8.com/ios-filled/100/A1A1A6/knight.png" alt="Knight" width="80" />
+  <img src="https://img.icons8.com/ios-filled/100/A1A1A6/chess-knight.png" alt="Knight" width="80" />
 
   # Raushan Kumar
 
   <!-- Dynamic Typewriter Sub-headline -->
   <a href="https://github.com/Raushankumar0720">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A1A1A6&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;System+Strategist;AI-Driven+Architect;MERN+Stack+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A1A1A6&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+Stack+Developer;Backend+Engineer;Building+AI-Integrated+Products" alt="Typing SVG" />
   </a>
 
-  <p><i>"Code is Strategy. Systems are Art."</i></p>
+  <p><i>"I build things that work at scale."</i></p>
 
   <!-- Realistic Mission Hook -->
   <p align="center">
-    <b>Engineering high-fidelity full-stack systems focusing on the intersection of AI and scalable architecture.</b><br>
-    Solving engineering problems with a strategist's precision and a developer's grit.
+    <b>Software engineer focused on backend systems, MERN stack, and AI-integrated products.</b><br>
+    Currently going deep into system design and scalable architecture.
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Raushankumar0720&color=A1A1A6" alt="Profile Views" />
+  <img src="https://hits.dwyl.com/Raushankumar0720/Raushankumar0720.svg?color=A1A1A6" alt="Hits" />
 
 </div>
 
 ---
 
-### ♟️ The Knight’s Perspective
-In chess, the knight is the only piece that leaps over obstacles. In engineering, I apply this **non-linear logic** to bypass technical debt and architecture bottlenecks. I don’t just build features; I architect **systems** that endure.
+### ♞ About Me
 
-*   **The Move**: Expertise in the MERN stack with a focus on **Explainable AI (XAI)** and high-performance UI Intelligence.
-*   **The Strategy**: Prioritizing **Scalability > Speed**. Every line of code is a calculated move toward a robust production environment.
-*   **The Pursuit**: Currently deep-diving into **Analytical Design Ledgers** and automated simulation engines.
+```json
+{
+  "role": "Software Engineer",
+  "mission": "Bridging complex system design with intuitive user experiences.",
+  "core_expertise": [
+    "MERN Stack Architecture",
+    "Robust Backend Systems",
+    "RESTful APIs & Real-time Pipelines"
+  ],
+  "current_focus": "Advanced Backend Architecture & Distributed System Design.",
+  "innovation": "Building AI-native products with deep architectural integration."
+}
+```
 
 ---
 
@@ -52,66 +61,43 @@ In chess, the knight is the only piece that leaps over obstacles. In engineering
 
 ## 🛠️ Tech Stack & Skills
 
-### ⚡ The Power of the Knight
+### ♞ Where I Stand
 <p align="left">
-  <b>Frontend Orchestration</b> (75%)<br>
+  <b>Frontend</b> (75%)<br>
   <img src="https://geps.dev/progress/75?dangerColor=333333&warningColor=A1A1A6&successColor=A1A1A6" alt="Frontend Progress" /><br>
-  <b>Backend Architecture</b> (80%)<br>
+  <b>Backend</b> (80%)<br>
   <img src="https://geps.dev/progress/80?dangerColor=333333&warningColor=A1A1A6&successColor=A1A1A6" alt="Backend Progress" /><br>
-  <b>AI Strategy & Integration</b> (80%)<br>
+  <b>AI Integration</b> (80%)<br>
   <img src="https://geps.dev/progress/80?dangerColor=333333&warningColor=A1A1A6&successColor=A1A1A6" alt="AI Progress" />
 </p>
 
-### 🛠️ Tech Stack & Skills
+### ♞ What I Work With
 
-#### **🌐 FRONTEND**
+#### ♞ Core Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</p>
-
-#### **🖥️ BACKEND**
-<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API_Design-000000?style=flat-square&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket_/_Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
 </p>
 
-#### **🗄️ DATABASE**
+#### ♞ Data & Auth
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
 </p>
 
-#### **🛠️ TOOLS & PLATFORMS**
+#### ♞ Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
-</p>
-
-#### **🚀 EXPLORING**
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
 ---
@@ -124,16 +110,16 @@ In chess, the knight is the only piece that leaps over obstacles. In engineering
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raushankumar0720&theme=transparent&hide_border=true&stroke=A1A1A6&ring=A1A1A6&fire=A1A1A6&currStreakLabel=A1A1A6&sideNums=A1A1A6" alt="GitHub Streak" width="400" />
 </p>
 
-### ♟️ The Knight’s Hall (Trophies)
+### ♞ Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.zeabur.app/?username=Raushankumar0720&theme=flat&no-bg=true&margin-w=10&column=4&rank=SSS,SS,S,AAA,AA,A&row=2" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Raushankumar0720&theme=flat&no-bg=true&margin-w=10&column=4&rank=SSS,SS,S,AAA,AA,A&row=2" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-### 🐍 Combat Zone (Contribution Snake)
+### ♞ Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Raushankumar0720/Raushankumar0720/output/github-contribution-grid-snake.svg" alt="Snake" />
@@ -143,23 +129,23 @@ In chess, the knight is the only piece that leaps over obstacles. In engineering
 
 ## 🌱 Currently
 
-### ⏳ The Knight’s Path (2026 Milestones)
+### ♞ Currently Engineering
 
-| Phase | Strategic Achievement |
-| :--- | :--- |
-| **Q1** | ⚔️ **Mastered Scalable MERN Architectures** — Standardizing production-grade deployment patterns. |
-| **Q2** | 🎥 **YouTube Launch (@codePressure)** — Broadcasting architectural deep-dives to the community. |
-| **Q3** | 🧠 **First AI Simulation Engine** — Engineering an analytical design ledger for high-fidelity UI audits. |
+Right now, my primary focus is bridging the gap between theoretical system architecture and practical AI execution. 
+
+⚡ **Active Initiative** — Deep-diving into enterprise-grade backend design using Node.js and PostgreSQL.
+<br>
+🎥 **Knowledge Sharing** — Documenting the entire journey of building scalable systems on my channel [@codePressure](https://www.youtube.com/@codePressure).
 
 ### 📺 Latest Broadcasts from @codePressure
 <!-- YOUTUBE-FEED-START -->
-*Stay tuned as I broadcast the latest maneuvers in full-stack dev and AI intelligence.*
+*Backend deep-dives, system design breakdowns, and building in public.*
 <!-- YOUTUBE-FEED-END -->
 
 ---
 
 <div align="center">
-  <h3>Ready for the next move?</h3>
+  <h3>See what I've built ♞</h3>
   <a href="https://raushan-kumar.vercel.app/">
     <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-000000?style=for-the-badge&logo=powerpages&logoColor=white" alt="Portfolio CTA" />
   </a>
