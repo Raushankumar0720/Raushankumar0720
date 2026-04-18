@@ -122,7 +122,7 @@
 ### ♞ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raushankumar0720/Raushankumar0720/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/Raushankumar0720/Raushankumar0720/output/github-contribution-grid-snake.svg?v=2" alt="Snake" />
 </p>
 
 ---
