@@ -111,7 +111,7 @@
 </p>
 
 ### ♞ Trophies
-<p align="left">
+<p align="center">
   <img src="https://github-profile-trophy.zeabur.app/?username=Raushankumar0720&theme=flat&no-bg=true&margin-w=15&column=6&row=2" alt="GitHub Trophies" />
 </p>
 
