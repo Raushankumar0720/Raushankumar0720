@@ -105,9 +105,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raushankumar0720&show_icons=true&theme=transparent&hide_border=true&title_color=A1A1A6&icon_color=A1A1A6&text_color=A1A1A6" alt="Raushan's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raushankumar0720&show_icons=true&theme=transparent&hide_border=true&title_color=A1A1A6&icon_color=A1A1A6&text_color=A1A1A6&cache_seconds=3600" alt="Raushan's Stats" width="400" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raushankumar0720&theme=transparent&hide_border=true&stroke=A1A1A6&ring=A1A1A6&fire=A1A1A6&currStreakLabel=A1A1A6&sideNums=A1A1A6" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raushankumar0720&theme=transparent&hide_border=true&stroke=A1A1A6&ring=A1A1A6&fire=A1A1A6&currStreakLabel=A1A1A6&sideNums=A1A1A6&cache_seconds=3600" alt="GitHub Streak" width="400" />
 </p>
 
 ### ♞ Trophies

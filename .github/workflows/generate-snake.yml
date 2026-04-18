@@ -3,6 +3,9 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -10,8 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout
         uses: actions/checkout@v4
