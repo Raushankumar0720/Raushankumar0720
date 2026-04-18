@@ -112,7 +112,7 @@
 
 ### ♞ Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.zeabur.app/?username=Raushankumar0720&theme=flat&no-bg=true&margin-w=10&column=4&rank=SSS,SS,S,AAA,AA,A&row=2" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.zeabur.app/?username=Raushankumar0720&theme=flat&no-bg=true&margin-w=15&column=6&row=2" alt="GitHub Trophies" />
 </p>
 
 ---
