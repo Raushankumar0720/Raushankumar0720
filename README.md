@@ -139,11 +139,11 @@ Right now, my primary focus is bridging the gap between theoretical system archi
 
 ### 📺 Latest Broadcasts from @codePressure
 <!-- YOUTUBE-FEED:START -->
+- [LeetCode 217 — Contains Duplicate | Best Hash Set Solution in C++ &lpar;Step-by-Step&rpar;](https://www.youtube.com/watch?v=PQe3cF_6Yww)
+- [BYND — Fullstack SaaS Platform for Bidirectional Sync Between Excel, CRM &amp; Invoicing #webdevelopment](https://www.youtube.com/watch?v=xutn4mjh1ys)
 - [No frameWorks/Libraries -- Plane HTML-CSS only](https://www.youtube.com/watch?v=1BkfQJZBYXE)
 - [i re-Created ui clone of this website .. CHECK ....](https://www.youtube.com/watch?v=71TR5ATxnJQ)
 - [“No Frameworks — I Recreated a Premium Product Website UI &lpar;Bevel Clone&rpar;”  #webdevelopment #html#css](https://www.youtube.com/watch?v=BD47qUWGgIY)
-- [I Rebuilt the Ethena Crypto Landing Page UI Using Only HTML &amp; CSS](https://www.youtube.com/watch?v=DqeaifbGOuk)
-- [“I Rebuilt the LiveCoinWatch Crypto Dashboard UI Using Only HTML &amp; CSS” #webdevelopment](https://www.youtube.com/watch?v=OcSvDbHuSr0)
 <!-- YOUTUBE-FEED:END -->
 
 ---
