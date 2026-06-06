@@ -122,7 +122,7 @@
   </a>
   <br>
   <a href="https://leetcode.com/u/raushankumar150720/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-A1A1A6?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+    <img src="https://img.shields.io/badge/Go_to_LeetCode-A1A1A6?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
   </a>
 </p>
 
