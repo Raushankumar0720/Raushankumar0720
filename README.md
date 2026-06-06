@@ -51,7 +51,7 @@
     <a href="https://raushankumar-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/raushan150720/"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://x.com/RaushanKum68222"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-    <a href="https://www.youtube.com/@codePressure"><img src="https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://www.youtube.com/@raushannkumar07"><img src="https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
     <a href="https://leetcode.com/u/raushankumar150720/"><img src="https://img.shields.io/badge/LeetCode-444444?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   </p>
 
@@ -135,7 +135,7 @@ Right now, my primary focus is bridging the gap between theoretical system archi
 
 ⚡ **Active Initiative** — Deep-diving into enterprise-grade backend design using Node.js and PostgreSQL.
 <br>
-🎥 **Knowledge Sharing** — Documenting the entire journey of building scalable systems on my channel [@raushannkumar07](www.youtube.com/@raushannkumar07).
+🎥 **Knowledge Sharing** — Documenting the entire journey of building scalable systems on my channel [@raushannkumar07](https://www.youtube.com/@raushannkumar07).
 
 ### 📺 Latest Broadcasts from @raushannkumar07 YT Channel
 <!-- YOUTUBE-FEED:START -->
