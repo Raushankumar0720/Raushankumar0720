@@ -117,7 +117,13 @@
 
 ### ♞ LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/raushankumar150720?theme=transparent" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/raushankumar150720/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/raushankumar150720?theme=transparent" alt="LeetCode Stats" />
+  </a>
+  <br>
+  <a href="https://leetcode.com/u/raushankumar150720/" target="_blank">
+    <b>View My LeetCode Profile ↗</b>
+  </a>
 </p>
 
 ---
