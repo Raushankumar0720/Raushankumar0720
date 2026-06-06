@@ -135,7 +135,7 @@ Right now, my primary focus is bridging the gap between theoretical system archi
 
 ⚡ **Active Initiative** — Deep-diving into enterprise-grade backend design using Node.js and PostgreSQL.
 <br>
-🎥 **Knowledge Sharing** — Documenting the entire journey of building scalable systems on my channel [@codePressure](https://www.youtube.com/@codePressure).
+🎥 **Knowledge Sharing** — Documenting the entire journey of building scalable systems on my channel [@raushannkumar07](www.youtube.com/@raushannkumar07).
 
 ### 📺 Latest Broadcasts from @raushannkumar07 YT Channel
 <!-- YOUTUBE-FEED:START -->
