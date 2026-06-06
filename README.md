@@ -18,7 +18,7 @@
     Currently going deep into system design and scalable architecture.
   </p>
 
-  <img src="https://hits.dwyl.com/Raushankumar0720/Raushankumar0720.svg?color=A1A1A6" alt="Hits" />
+  <img src="https://komarev.com/ghpvc/?username=Raushankumar0720&color=a1a1a6" alt="Hits" />
 
 </div>
 
