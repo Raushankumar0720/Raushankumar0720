@@ -53,6 +53,7 @@
     <a href="https://x.com/RaushanKum68222"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
     <a href="https://www.youtube.com/@raushannkumar07"><img src="https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
     <a href="https://leetcode.com/u/raushankumar150720/"><img src="https://img.shields.io/badge/LeetCode-444444?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+    <a href="https://discord.com/users/1489455806112993382"><img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   </p>
 
 </div>
