@@ -1,26 +1,30 @@
 <div align="center">
 
-<img src="https://img.icons8.com/ios-filled/100/A1A1A6/knight.png" width="78" alt="Knight" />
+<img src="https://img.icons8.com/ios-filled/100/A1A1A6/knight.png" width="86" alt="Raushan Knight" />
 
 # RAUSHAN KUMAR
 
-### Full-Stack Developer · React · Node.js · Databases
+### `FULL-STACK DEVELOPER`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=A1A1A6&center=true&vCenter=true&width=680&lines=Building+full-stack+applications;Learning+backend+engineering+deeply;Solving+problems+with+C%2B%2B;Turning+ideas+into+working+software" alt="Typing SVG" />
+`React` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL`
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A1A1A6&center=true&vCenter=true&width=720&lines=BUILD+%E2%86%92+DEBUG+%E2%86%92+UNDERSTAND+%E2%86%92+SHIP;Building+full-stack+applications;Going+deeper+into+backend+engineering;Solving+problems+with+C%2B%2B+%26+DSA" alt="Typing Animation" />
 
 <br />
 
 <a href="https://raushankumar-dev.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/raushan150720/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/raushankumar150720/">
-<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/@raushannkumar07">
-<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/YOUTUBE-111111?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <br /><br />
@@ -31,64 +35,102 @@
 
 ---
 
-## ♞ About
+## `♞ 01 / IDENTITY`
 
 ```text
-Computer Engineering Student
-        │
-        ├── Full-Stack Development
-        │      ├── React
-        │      ├── Node.js
-        │      └── REST APIs
-        │
-        ├── Backend Engineering
-        │      ├── Authentication
-        │      ├── Databases
-        │      └── Caching
-        │
-        └── Problem Solving
-               └── C++ / DSA
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  RAUSHAN KUMAR                                                  │
+│  Computer Engineering Student                                  │
+│                                                                 │
+│  BUILD                                                         │
+│  ├── Full-Stack Applications                                   │
+│  ├── React Interfaces                                          │
+│  └── Node.js APIs                                               │
+│                                                                 │
+│  UNDERSTAND                                                     │
+│  ├── Authentication                                             │
+│  ├── Databases                                                  │
+│  ├── HTTP / REST                                                │
+│  └── Application Architecture                                   │
+│                                                                 │
+│  SOLVE                                                          │
+│  └── C++ / Data Structures & Algorithms                         │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-I build full-stack applications and use projects to understand the engineering behind them — **APIs, authentication, databases, application architecture and deployment.**
+I build full-stack applications and use each project to go deeper into the engineering behind the code — from **UI and APIs to authentication, databases and deployment**.
 
-Currently focused on becoming stronger at **backend engineering and computer science fundamentals**, while continuing to ship practical products.
+My current direction is simple:
+
+> **Build real things. Understand how they work. Get better at the fundamentals.**
 
 ---
 
-## ⚔️ Selected Work
+# `♞ 02 / SELECTED WORK`
 
-### `01` · UI Intelligence Engine
+## `01` — UI Intelligence Engine
+
+### AI-assisted UI analysis platform
 
 **React · Express.js · JWT · AI**
 
-An AI-assisted application that analyzes UI screenshots and provides feedback around component patterns, layout inconsistencies and accessibility.
+Analyzes UI screenshots and provides feedback around component patterns, layout inconsistencies and accessibility.
 
-**What I built**
+```text
+┌──────────────┐       ┌──────────────┐       ┌──────────────┐
+│    React     │ ───→  │  Express API │ ───→  │ AI Analysis  │
+│  Frontend    │       │ JWT Protected│       │    Engine     │
+└──────────────┘       └──────────────┘       └──────────────┘
+                              │
+                              ▼
+                       Structured Results
+```
 
-* React-based interface for uploading and analyzing screenshots
+**Built**
+
+* Screenshot upload and analysis workflow
+* React-based frontend
 * Express.js REST API
-* JWT-based authentication
-* AI-assisted UI analysis workflow
-* Separate frontend/backend deployment
+* JWT authentication
+* UI pattern and accessibility analysis
+* Independent frontend/backend deployment
 
-`React` `Express` `JWT` `AI` `REST API`
+`React` `Express` `JWT` `REST API` `AI`
 
 **[Repository →](YOUR_UI_INTELLIGENCE_REPO)** · **[Live Demo →](YOUR_UI_INTELLIGENCE_DEMO)**
 
 ---
 
-### `02` · ContentCraft AI
+## `02` — ContentCraft AI
+
+### Full-stack AI content platform
 
 **React · Express.js · MongoDB · JWT · Tailwind CSS**
 
-A full-stack content generation platform with authenticated users and persistent content management.
+A full-stack application for authenticated users to generate, manage and persist AI-assisted content.
 
-**What I built**
+```text
+CLIENT
+  │
+  ▼
+React + Tailwind
+  │
+  ▼
+Express REST API
+  │
+  ├── JWT Authentication
+  │
+  ▼
+MongoDB
+```
 
-* Authentication and protected application flows
-* REST APIs with Express.js
-* MongoDB data persistence
+**Built**
+
+* Authentication and protected routes
+* REST API architecture
+* MongoDB persistence
 * Content creation and management
 * Responsive React interface
 * Cloud deployment
@@ -99,41 +141,39 @@ A full-stack content generation platform with authenticated users and persistent
 
 ---
 
-### `03` · More Experiments
+### `03` — More From The Workshop
 
-Frontend builds, UI recreations, DSA implementations and other development projects.
+UI experiments · frontend builds · DSA implementations · full-stack experiments
 
 **[Explore all repositories →](https://github.com/Raushankumar0720?tab=repositories)**
 
 ---
 
-## 🧰 Tech I Use
+# `♞ 03 / ENGINEERING STACK`
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux" />
-</p>
-
-React · JavaScript · HTML · CSS
-Tailwind CSS · Redux Toolkit
+`React`
+`JavaScript`
+`HTML / CSS`
+`Tailwind CSS`
+`Redux Toolkit`
 
 </td>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-Node.js · Express.js
-REST APIs · JWT · Socket.IO
+`Node.js`
+`Express.js`
+`REST APIs`
+`JWT`
+`Socket.IO`
 
 </td>
 </tr>
@@ -141,13 +181,11 @@ REST APIs · JWT · Socket.IO
 <tr>
 <td valign="top">
 
-### Databases
+### Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-</p>
-
-MongoDB · PostgreSQL · Redis
+`MongoDB`
+`PostgreSQL`
+`Redis`
 
 </td>
 
@@ -155,12 +193,12 @@ MongoDB · PostgreSQL · Redis
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker" />
-</p>
-
-Git · GitHub · Postman
-Vercel · Render · Docker
+`Git`
+`GitHub`
+`Postman`
+`Vercel`
+`Render`
+`Docker`
 
 </td>
 </tr>
@@ -168,86 +206,97 @@ Vercel · Render · Docker
 
 ---
 
-## 🧠 What I'm Deepening
+# `♞ 04 / CURRENTLY DEEPENING`
 
-I don't want to just know how to use a framework.
+I don't want to stop at **“I know the framework.”**
 
-I'm working toward understanding what happens **underneath the framework**.
+I'm working toward understanding what happens underneath it.
 
 ```text
-APPLICATION
-     │
-     ▼
-React / Node.js
-     │
-     ▼
-HTTP · REST · Authentication
-     │
-     ▼
-Database · Indexes · Transactions
-     │
-     ▼
-Caching · Redis · Performance
-     │
-     ▼
-Networking · Concurrency
-     │
-     ▼
-System Design Fundamentals
+┌──────────────────────────────────────────────┐
+│                 APPLICATION                  │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+              React / Node.js
+                       │
+                       ▼
+              HTTP / REST / Auth
+                       │
+                       ▼
+          Database / Indexes / Transactions
+                       │
+                       ▼
+             Redis / Caching / Perf
+                       │
+                       ▼
+            Networking / Concurrency
+                       │
+                       ▼
+              System Fundamentals
 ```
 
-### Current Focus
+### Backend
 
-**Backend**
+`Node.js → Express → REST → Auth → Validation → Errors`
 
-`Node.js → Express → REST → Auth → Validation → Error Handling`
+### Databases
 
-**Databases**
+`MongoDB → PostgreSQL → Indexing → Transactions → Modeling`
 
-`MongoDB → PostgreSQL → Indexing → Transactions → Data Modeling`
-
-**Performance**
+### Performance
 
 `Caching → Redis → Query Optimization → API Performance`
 
-**DSA**
+### DSA
 
 `Arrays → Hashing → Linked Lists → Stack/Queue → Trees → Graphs`
 
 ---
 
-## 🧩 Problem Solving
+# `♞ 05 / PROBLEM SOLVING`
 
-I use **C++** for Data Structures & Algorithms and practice problem solving on LeetCode.
+**Language:** `C++`
+
+I practice Data Structures & Algorithms to improve problem-solving, algorithmic thinking and implementation skills.
 
 <div align="center">
 
 <a href="https://leetcode.com/u/raushankumar150720/">
 
-<img src="https://leetcard.jacoblin.cool/raushankumar150720?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="500" alt="LeetCode Statistics" />
+<img src="https://leetcard.jacoblin.cool/raushankumar150720?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="500" alt="Raushan LeetCode Statistics" />
 
+</a>
+
+<br /><br />
+
+<a href="https://leetcode.com/u/raushankumar150720/">
+<img src="https://img.shields.io/badge/VIEW_LEETCODE_PROFILE-A1A1A6?style=for-the-badge&logo=leetcode&logoColor=111111" />
 </a>
 
 </div>
 
 ---
 
-## 🎥 Building in Public
+# `♞ 06 / BUILDING IN PUBLIC`
 
 I document my DSA and development journey through technical walkthroughs and problem-solving videos.
 
-### Recent Videos
+### Recent
 
-* [LeetCode 1464 — Maximum Product of Two Elements](https://www.youtube.com/watch?v=ent6qxj7iMU)
-* [LeetCode 14 — Longest Common Prefix](https://www.youtube.com/watch?v=aQgKRTbEdF0)
-* [LeetCode 7 — Reverse Integer](https://www.youtube.com/watch?v=GYDfeg3EBXU)
-* [LeetCode 4 — Median of Two Sorted Arrays](https://www.youtube.com/watch?v=2cBVYStPFNU)
+`01` [Maximum Product of Two Elements — LeetCode 1464](https://www.youtube.com/watch?v=ent6qxj7iMU)
+
+`02` [Longest Common Prefix — LeetCode 14](https://www.youtube.com/watch?v=aQgKRTbEdF0)
+
+`03` [Reverse Integer — LeetCode 7](https://www.youtube.com/watch?v=GYDfeg3EBXU)
+
+`04` [Median of Two Sorted Arrays — LeetCode 4](https://www.youtube.com/watch?v=2cBVYStPFNU)
 
 **[Visit YouTube →](https://www.youtube.com/@raushannkumar07)**
 
 ---
 
-## 📊 GitHub
+# `♞ 07 / GITHUB ACTIVITY`
 
 <div align="center">
 
@@ -261,26 +310,32 @@ I document my DSA and development journey through technical walkthroughs and pro
 
 ---
 
-## ♞ Philosophy
+# `♞ 08 / PRINCIPLES`
 
 ```text
-Don't just copy the abstraction.
-Understand the abstraction.
+01  BUILD
+    Turn ideas into working software.
 
-Don't just build the feature.
-Understand the system behind it.
+02  BREAK
+    Find where assumptions fail.
 
-Don't just solve the problem.
-Understand why the solution works.
+03  DEBUG
+    Trace the problem instead of guessing.
 
-Build → Break → Debug → Understand → Improve
+04  UNDERSTAND
+    Learn the abstraction beneath the abstraction.
+
+05  SHIP
+    Working software beats unfinished perfection.
 ```
 
 ---
 
-## 🤝 Connect
-
 <div align="center">
+
+## `BUILD · DEBUG · UNDERSTAND · SHIP`
+
+<br />
 
 <a href="https://raushankumar-dev.vercel.app/">Portfolio</a>
   ·   <a href="https://www.linkedin.com/in/raushan150720/">LinkedIn</a>
@@ -290,8 +345,6 @@ Build → Break → Debug → Understand → Improve
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A1A1A6&height=70&section=footer" width="100%" />
-
-### `Build · Learn · Debug · Ship`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A1A1A6&height=80&section=footer" width="100%" />
 
 </div>
