@@ -154,12 +154,11 @@ I use **C++** for DSA and regularly practice algorithmic problem solving.
 I document my DSA and development journey through problem-solving walkthroughs and technical content.
 
 <!-- YOUTUBE-FEED:START -->
-
-* [LeetCode 1464 — Maximum Product of Two Elements](https://www.youtube.com/watch?v=ent6qxj7iMU)
-* [LeetCode 14 — Longest Common Prefix](https://www.youtube.com/watch?v=aQgKRTbEdF0)
-* [LeetCode 7 — Reverse Integer](https://www.youtube.com/watch?v=GYDfeg3EBXU)
-* [LeetCode 4 — Median of Two Sorted Arrays](https://www.youtube.com/watch?v=2cBVYStPFNU)
-
+- [LeetCode 1464 Maximum Product of Two Elements Strategy, Intuition &amp; Interview Walkthrough](https://www.youtube.com/watch?v=ent6qxj7iMU)
+- [LeetCode : 14 || Longest Common Prefix ||  Strategy, Intuition &amp; Interview Walkthrough](https://www.youtube.com/watch?v=aQgKRTbEdF0)
+- [LeetCode 7 Reverse Integer Deep Dive | Overflow Logic &amp; C++ Solution](https://www.youtube.com/watch?v=GYDfeg3EBXU)
+- [Raushan kumar Live Stream](https://www.youtube.com/watch?v=7HQicS0Q68E)
+- [LeetCode 4: Median of Two Sorted Arrays | Easy Explaination](https://www.youtube.com/watch?v=2cBVYStPFNU)
 <!-- YOUTUBE-FEED:END -->
 
 <a href="https://www.youtube.com/@raushannkumar07">
