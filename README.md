@@ -1,225 +1,231 @@
 <div align="center">
 
-<img src="https://img.icons8.com/ios-filled/100/A1A1A6/knight.png" width="82" alt="Knight" />
+<img src="https://img.icons8.com/ios-filled/100/A1A1A6/knight.png" width="78" alt="Knight" />
 
-# Raushan Kumar
+# RAUSHAN KUMAR
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=A1A1A6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+and+Shipping+Real+Applications;Learning+Backend+Engineering+Deeply" alt="Typing SVG" />
+### Full-Stack Developer · React · Node.js · Databases
 
-<br />
-
-<p>
-  <i>Build with intent. Understand the system. Ship the product.</i>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=A1A1A6&center=true&vCenter=true&width=680&lines=Building+full-stack+applications;Learning+backend+engineering+deeply;Solving+problems+with+C%2B%2B;Turning+ideas+into+working+software" alt="Typing SVG" />
 
 <br />
 
 <a href="https://raushankumar-dev.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/raushan150720/">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://leetcode.com/u/raushankumar150720/">
-  <img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://www.youtube.com/@raushannkumar07">
-  <img src="https://img.shields.io/badge/YOUTUBE-111111?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=Raushankumar0720&style=flat-square&color=A1A1A6&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Raushankumar0720&style=flat-square&color=A1A1A6&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## ♞ The Developer
+## ♞ About
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   RAUSHAN KUMAR                                              │
-│   Computer Engineering Student                               │
-│                                                              │
-│   Focus                                                     │
-│   ├── Full-Stack Development                                │
-│   ├── Backend Engineering                                   │
-│   ├── REST APIs & Authentication                            │
-│   ├── Database Design                                       │
-│   └── Data Structures & Algorithms                           │
-│                                                              │
-│   Build → Learn → Debug → Improve → Ship                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+Computer Engineering Student
+        │
+        ├── Full-Stack Development
+        │      ├── React
+        │      ├── Node.js
+        │      └── REST APIs
+        │
+        ├── Backend Engineering
+        │      ├── Authentication
+        │      ├── Databases
+        │      └── Caching
+        │
+        └── Problem Solving
+               └── C++ / DSA
 ```
 
-I'm a **Computer Engineering student** focused on building practical full-stack applications and understanding how the systems behind them work.
+I build full-stack applications and use projects to understand the engineering behind them — **APIs, authentication, databases, application architecture and deployment.**
 
-I enjoy working across the stack — from building responsive React interfaces to designing APIs, authentication flows, databases, and deployment pipelines.
-
-### What I'm working on
-
-* 🔨 Building full-stack applications with **React + Node.js**
-* 🔐 Designing **REST APIs, authentication and authorization**
-* 🗄️ Learning deeper **database design with MongoDB & PostgreSQL**
-* ⚡ Exploring **Redis, caching and backend performance**
-* 🧠 Strengthening **DSA with C++**
-* 🤖 Experimenting with practical **AI integrations**
-* 🎥 Sharing what I learn through **YouTube**
+Currently focused on becoming stronger at **backend engineering and computer science fundamentals**, while continuing to ship practical products.
 
 ---
 
-## ⚔️ Featured Projects
+## ⚔️ Selected Work
 
-> A few projects where I focused on actually building, integrating and shipping — not just following tutorials.
-
-### 01 · UI Intelligence Engine
+### `01` · UI Intelligence Engine
 
 **React · Express.js · JWT · AI**
 
-An AI-assisted platform that analyzes UI screenshots and provides design intelligence around component patterns, layout inconsistencies and accessibility issues.
+An AI-assisted application that analyzes UI screenshots and provides feedback around component patterns, layout inconsistencies and accessibility.
 
-```text
-Frontend        → React
-Backend         → Express.js
-Authentication  → JWT
-Deployment      → Vercel + Render
-```
+**What I built**
 
-**Highlights**
-
-* Screenshot-based UI analysis
-* Component and layout pattern detection
-* Accessibility-oriented feedback
-* JWT-secured backend
+* React-based interface for uploading and analyzing screenshots
+* Express.js REST API
+* JWT-based authentication
+* AI-assisted UI analysis workflow
 * Separate frontend/backend deployment
 
-**[View Project](YOUR_UI_INTELLIGENCE_REPO)** · **[Live Demo](YOUR_UI_INTELLIGENCE_DEMO)**
+`React` `Express` `JWT` `AI` `REST API`
+
+**[Repository →](YOUR_UI_INTELLIGENCE_REPO)** · **[Live Demo →](YOUR_UI_INTELLIGENCE_DEMO)**
 
 ---
 
-### 02 · ContentCraft AI
+### `02` · ContentCraft AI
 
 **React · Express.js · MongoDB · JWT · Tailwind CSS**
 
-A full-stack AI content generation platform with authenticated users and persistent content management.
+A full-stack content generation platform with authenticated users and persistent content management.
 
-```text
-Frontend        → React + Tailwind CSS
-Backend         → Express.js
-Database        → MongoDB
-Authentication  → JWT
-Deployment      → Vercel + Render
-```
+**What I built**
 
-**Highlights**
-
-* User authentication
+* Authentication and protected application flows
+* REST APIs with Express.js
+* MongoDB data persistence
 * Content creation and management
-* MongoDB persistence
-* REST API architecture
-* Full-stack cloud deployment
+* Responsive React interface
+* Cloud deployment
 
-**[View Project](YOUR_CONTENTCRAFT_REPO)** · **[Live Demo](YOUR_CONTENTCRAFT_DEMO)**
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
----
-
-### 03 · More Projects
-
-Explore my repositories for additional frontend experiments, UI clones, DSA implementations and full-stack projects.
-
-**[→ Explore GitHub Repositories](https://github.com/Raushankumar0720?tab=repositories)**
+**[Repository →](YOUR_CONTENTCRAFT_REPO)** · **[Live Demo →](YOUR_CONTENTCRAFT_DEMO)**
 
 ---
 
-## 🧰 Engineering Stack
+### `03` · More Experiments
+
+Frontend builds, UI recreations, DSA implementations and other development projects.
+
+**[Explore all repositories →](https://github.com/Raushankumar0720?tab=repositories)**
+
+---
+
+## 🧰 Tech I Use
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux" />
 </p>
+
+React · JavaScript · HTML · CSS
+Tailwind CSS · Redux Toolkit
+
+</td>
+
+<td valign="top" width="50%">
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts" alt="Backend Technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Databases & Infrastructure
+Node.js · Express.js
+REST APIs · JWT · Socket.IO
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker" alt="Database and Infrastructure Technologies" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
 </p>
+
+MongoDB · PostgreSQL · Redis
+
+</td>
+
+<td valign="top">
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker" />
 </p>
+
+Git · GitHub · Postman
+Vercel · Render · Docker
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Currently Leveling Up
+## 🧠 What I'm Deepening
+
+I don't want to just know how to use a framework.
+
+I'm working toward understanding what happens **underneath the framework**.
 
 ```text
-Backend Engineering
-████████████████░░░░
-
-Database Design
-██████████████░░░░░░
-
-Data Structures & Algorithms
-███████████████░░░░░
-
-System Fundamentals
-███████████░░░░░░░░░
-
-AI Integration
-███████████░░░░░░░░░
+APPLICATION
+     │
+     ▼
+React / Node.js
+     │
+     ▼
+HTTP · REST · Authentication
+     │
+     ▼
+Database · Indexes · Transactions
+     │
+     ▼
+Caching · Redis · Performance
+     │
+     ▼
+Networking · Concurrency
+     │
+     ▼
+System Design Fundamentals
 ```
 
-> The bars are intentionally treated as a visual roadmap, not percentage claims.
-
-### Current focus
+### Current Focus
 
 **Backend**
 
-`Node.js → Express → REST APIs → Authentication → Databases → Caching`
+`Node.js → Express → REST → Auth → Validation → Error Handling`
 
 **Databases**
 
 `MongoDB → PostgreSQL → Indexing → Transactions → Data Modeling`
 
+**Performance**
+
+`Caching → Redis → Query Optimization → API Performance`
+
 **DSA**
 
-`Arrays → Strings → Hashing → Linked Lists → Stack/Queue → Trees → Graphs`
-
-**Systems**
-
-`HTTP → Networking → Processes → Concurrency → Caching → System Design Fundamentals`
+`Arrays → Hashing → Linked Lists → Stack/Queue → Trees → Graphs`
 
 ---
 
 ## 🧩 Problem Solving
 
-I use **C++** for Data Structures & Algorithms and regularly practice problems on LeetCode.
+I use **C++** for Data Structures & Algorithms and practice problem solving on LeetCode.
 
 <div align="center">
 
 <a href="https://leetcode.com/u/raushankumar150720/">
-<img src="https://leetcard.jacoblin.cool/raushankumar150720?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="Raushan's LeetCode Stats" width="500" />
-</a>
 
-<br /><br />
+<img src="https://leetcard.jacoblin.cool/raushankumar150720?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="500" alt="LeetCode Statistics" />
 
-<a href="https://leetcode.com/u/raushankumar150720/">
-<img src="https://img.shields.io/badge/VIEW_LEETCODE_PROFILE-A1A1A6?style=for-the-badge&logo=leetcode&logoColor=111111" alt="LeetCode Profile" />
 </a>
 
 </div>
@@ -228,95 +234,64 @@ I use **C++** for Data Structures & Algorithms and regularly practice problems o
 
 ## 🎥 Building in Public
 
-I document my learning journey through DSA walkthroughs, coding problems and development content.
+I document my DSA and development journey through technical walkthroughs and problem-solving videos.
 
-### Latest
+### Recent Videos
 
 * [LeetCode 1464 — Maximum Product of Two Elements](https://www.youtube.com/watch?v=ent6qxj7iMU)
 * [LeetCode 14 — Longest Common Prefix](https://www.youtube.com/watch?v=aQgKRTbEdF0)
 * [LeetCode 7 — Reverse Integer](https://www.youtube.com/watch?v=GYDfeg3EBXU)
 * [LeetCode 4 — Median of Two Sorted Arrays](https://www.youtube.com/watch?v=2cBVYStPFNU)
 
-<br />
-
-<a href="https://www.youtube.com/@raushannkumar07">
-<img src="https://img.shields.io/badge/EXPLORE_CHANNEL-111111?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
-</a>
+**[Visit YouTube →](https://www.youtube.com/@raushannkumar07)**
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raushankumar0720&show_icons=true&hide_border=true&theme=transparent&title_color=A1A1A6&icon_color=A1A1A6&text_color=A1A1A6&bg_color=00000000&cache_seconds=3600" alt="GitHub Stats" width="430" />
+<img src="https://github-readme-stats.vercel.app/api?username=Raushankumar0720&show_icons=true&hide_border=true&theme=transparent&title_color=A1A1A6&icon_color=A1A1A6&text_color=A1A1A6&cache_seconds=3600" width="430" alt="GitHub Statistics" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raushankumar0720&theme=transparent&hide_border=true&stroke=A1A1A6&ring=A1A1A6&fire=A1A1A6&currStreakLabel=A1A1A6&sideNums=A1A1A6" alt="GitHub Streak" width="430" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raushankumar0720&theme=transparent&hide_border=true&stroke=A1A1A6&ring=A1A1A6&fire=A1A1A6&currStreakLabel=A1A1A6&sideNums=A1A1A6" width="430" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## ♞ The Road Ahead
+## ♞ Philosophy
 
 ```text
-             ┌─────────────────────┐
-             │     BUILD MORE      │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │   GO DEEPER         │
-             │ Backend + Databases │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │  SOLVE HARDER       │
-             │     DSA + CS        │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │   SHIP & CONTRIBUTE │
-             │ Open Source + Teams │
-             └─────────────────────┘
-```
+Don't just copy the abstraction.
+Understand the abstraction.
 
-I'm currently focused on turning **projects into real engineering experience** and continuously improving the depth behind the code I write.
+Don't just build the feature.
+Understand the system behind it.
+
+Don't just solve the problem.
+Understand why the solution works.
+
+Build → Break → Debug → Understand → Improve
+```
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <div align="center">
 
-<a href="https://raushankumar-dev.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<a href="https://raushankumar-dev.vercel.app/">Portfolio</a>
+  ·   <a href="https://www.linkedin.com/in/raushan150720/">LinkedIn</a>
+  ·   <a href="https://leetcode.com/u/raushankumar150720/">LeetCode</a>
+  ·   <a href="https://www.youtube.com/@raushannkumar07">YouTube</a>
+  ·   <a href="https://x.com/RaushanKum68222">X</a>
 
-<a href="https://www.linkedin.com/in/raushan150720/">
-<img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<br /><br />
 
-<a href="https://x.com/RaushanKum68222">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A1A1A6&height=70&section=footer" width="100%" />
 
-<a href="https://leetcode.com/u/raushankumar150720/">
-<img src="https://img.shields.io/badge/LeetCode-444444?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A1A1A6&height=80&section=footer" width="100%" />
-
-### `Build → Learn → Debug → Improve → Ship`
+### `Build · Learn · Debug · Ship`
 
 </div>
