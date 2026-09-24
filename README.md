@@ -4,11 +4,11 @@
 
 # RAUSHAN KUMAR
 
-### `BACKEND & DISTRIBUTED SYSTEMS ENGINEER`
+### `SOFTWARE ENGINEER | NODE.JS · TYPESCRIPT · MERN`
 
-`Python (FastAPI, Asyncio)` · `TypeScript` · `Distributed Systems` · `AI Infra`
+`Node.js` · `TypeScript` · `Express.js` · `React` · `MongoDB` · `PostgreSQL` · `C++`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=A1A1A6&center=true&vCenter=true&width=700&lines=BUILD+%E2%86%92+DEBUG+%E2%86%92+UNDERSTAND+%E2%86%92+SHIP;Backend+Engineering+%26+Asyncio;Distributed+Systems+%26+AI+Infra;Python+(FastAPI)+%7C+TypeScript+%7C+Redis" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=A1A1A6&center=true&vCenter=true&width=700&lines=BUILD+%E2%86%92+DEBUG+%E2%86%92+UNDERSTAND+%E2%86%92+SHIP;Backend+Engineering+%26+Node.js;TypeScript+%7C+Express+%7C+MERN;C%2B%2B+%7C+DSA+%7C+Problem+Solving" alt="Typing Animation" />
 
 <br />
 
@@ -35,201 +35,143 @@
 
 ## `♞ / WHO I AM`
 
-> **Backend Engineer specializing in Python (FastAPI, Asyncio), TypeScript, and Distributed Systems & AI Infrastructure.**
+> **Software Engineer focused on backend development, scalable REST APIs, and algorithmic problem solving.**
 
-I design and build resilient, asynchronous backend systems and event-driven architectures:
+I enjoy understanding how systems work under the hood — from HTTP request lifecycles to database aggregation pipelines:
 
 ```text
-Client Event / Ingestion
+Client Request (React / Webhook)
  ↓
-FastAPI / API Gateway
+API Gateway & Router (Node.js / Express)
  ↓
-Decoupled Async Worker Queue
+Authentication & Validation (JWT Middleware)
  ↓
-LLM & AI Inference (Groq LPU)
+Business Logic & Service Layer
  ↓
-Distributed Cache & State Store (Redis / DB)
+Database Pipelines (MongoDB Aggregations / SQL)
  ↓
-Telemetry & Client Delivery
+Cached State & Client Response
 ```
 
-My focus is **performance, concurrency, and system resilience** — understanding how distributed components communicate and scale under real workloads.
+My core principle is **depth over tool-collecting**: writing clean code, building production-ready features, and solving algorithmic problems with C++.
 
 ---
 
 ## `⚡ / ENGINEERING SNAPSHOT`
 
-| Area                | Focus                                                                |
-| ------------------- | -------------------------------------------------------------------- |
-| **Backend**         | Python (FastAPI, Asyncio) · TypeScript · Node.js · REST APIs · Async Workers |
-| **Distributed & AI**| Distributed Systems · Event Pipelines · Groq / LLM Infra · Redis Caching |
-| **Databases**       | PostgreSQL · Redis · MongoDB                                         |
-| **Problem Solving** | C++ · Data Structures · Algorithms · Concurrency                     |
-| **Tools & Infra**   | Docker · Git · Linux · Postman · CI/CD · Vercel                      |
-| **Frontend**        | React · TypeScript · Tailwind CSS                                    |
+| Area                | Focus                                                                      |
+| ------------------- | -------------------------------------------------------------------------- |
+| **Backend**         | Node.js · Express.js · TypeScript · REST APIs · MVC Architecture · JWT    |
+| **Frontend**        | React · TypeScript · JavaScript (ES6+) · Tailwind CSS · Redux Toolkit      |
+| **Databases**       | MongoDB (Mongoose, Aggregation Pipelines) · PostgreSQL · Redis             |
+| **Problem Solving** | C++ · Data Structures & Algorithms · LeetCode Walkthroughs                 |
+| **Tools & DevOps**  | Docker · Git & GitHub · Postman · Linux · Vercel · CI/CD                   |
+| **Open Source**     | Active Codebase Contributions · Technical Walkthroughs & Documentation     |
 
 ---
 
 # `♞ / SELECTED WORK`
 
-## `01` — Digital Twin Autopilot
+## `01` — Amazon Orders Analytics Backend
 
-**Autonomous AI Persona & Low-Latency Event Flow Daemon**
+**Production-grade e-commerce analytics backend with complex aggregation pipelines**
 
-`Python` `FastAPI` `Asyncio` `Telethon` `Groq LPU` `React`
+`Node.js` `Express.js` `MongoDB` `JWT` `REST APIs` `MVC`
 
-A real-time, event-driven personal AI twin integrating with Telegram. Features dynamic personality dials, slang matching, and asynchronous background worker pipelines.
+A robust backend engine built to ingest, filter, and analyze large-scale e-commerce order datasets with high efficiency.
 
-### Architecture & Event Flow
+### Engineering Architecture
 
 ```text
-Telegram Event ──> FastAPI Gateway ──> Async Worker ──> Groq LPU (Llama-3) ──> Client Dispatch
+HTTP Request
+  │
+  ▼
+Express Router (MVC)
+  │
+  ├── JWT Auth & Role Middleware
+  ├── Query Sanitizer (Pagination, Sorting, Filters)
+  │
+  ▼
+Service Layer
+  │
+  ▼
+MongoDB Aggregation Pipeline (Revenue, Volume, Trends)
 ```
 
-### Engineering Highlights
+### Built & Engineered
 
-* **Decoupled Event Architecture**: FastAPI gateway offloading requests to an asynchronous Telethon worker daemon.
-* **Low-Latency Inference**: Sub-second contextual response generation leveraging Groq's LPU.
-* **Persona Dial Engine**: Contextual slang matching with realistic simulated human typing intervals.
-* **Telemetry Dashboard**: React/Vite control center with live activity streams and granular contact whitelists.
+* **Scalable MVC Pattern**: Clean separation of routes, controllers, and database access layers.
+* **MongoDB Aggregations**: Multi-stage aggregation pipelines calculating real-time sales metrics, revenue analytics, and order trends.
+* **Granular Query Engine**: Multi-field dynamic filtering, price/date ranges, and cursor-based pagination.
+* **Enterprise Security**: Token-based authentication with JWT, bcrypt password hashing, and centralized error handling.
 
-**[Repository →](https://github.com/Raushankumar0720/digital-twin-autopilot)**
+**[Explore Repository →](https://github.com/Raushankumar0720/amazon_orders_raushan_kumar)**
 
 ---
 
-## `02` — ContentCraft AI
+## `02` — Digital Twin Autopilot
 
-**Full-stack AI content platform**
+**Autonomous AI clone & telemetry console with real-time event automation**
 
-`React` `Express.js` `MongoDB` `JWT` `Tailwind`
+`React` `Vite` `FastAPI` `Groq LPU` `Telethon` `Tailwind`
 
-A platform for authenticated users to **generate, manage and persist AI-assisted content**.
+A personal AI clone system integrating communication channels with low-latency LLM inference and a centralized monitoring dashboard.
 
-### Engineering
+### Engineering Architecture
 
 ```text
-React + Tailwind
-       │
-       ▼
-Express REST API
-       │
-       ├── JWT Auth
-       │
-       ▼
-    MongoDB
+Telegram Event ──> Gateway / Worker ──> Groq LPU (Llama-3) ──> Client Dispatch
+                           │
+                           ▼
+            React + Vite Telemetry Console
 ```
 
-### Built
+### Built & Engineered
 
-* Authentication and protected routes
-* REST API architecture
-* MongoDB persistence
-* Content management
-* Responsive React UI
-* Cloud deployment
+* **Telemetry Console**: Interactive React/Vite dashboard to monitor live conversation feeds, adjust response delays, and toggle system overrides.
+* **Low-Latency LLM Orchestration**: Sub-second contextual response synthesis utilizing Groq's LPU inference engine.
+* **Dynamic Control**: Granular contact whitelists, blacklists, and automated channel status toggles.
 
-**[Repository →](YOUR_CONTENTCRAFT_REPO)**
-**[Live Demo →](YOUR_CONTENTCRAFT_DEMO)**
+**[Explore Repository →](https://github.com/Raushankumar0720/digital-twin-autopilot)**
 
 ---
 
-### `03` — Other Work
+## `03` — Open Source & Full-Stack Projects
 
-Frontend builds · UI recreations · DSA implementations · experiments
+Contributions across open-source codebases, curriculum repositories (including `freeCodeCamp`), and TypeScript implementations.
 
-**[Explore repositories →](https://github.com/Raushankumar0720?tab=repositories)**
+* **Habit Tracker**: Modern TypeScript application focusing on state persistence and responsive UI patterns.
+* **ContentCraft AI**: Full-stack MERN application for authenticated content workflows and cloud deployment.
+
+**[Explore All Repositories →](https://github.com/Raushankumar0720?tab=repositories)**
 
 ---
 
 # `🧰 / STACK`
 
-### Frontend
+### Backend & Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,cpp" />
 </p>
 
-### Backend
+### Frontend & Styling
 
 <p>
-<img src="https://skillicons.dev/icons?i=py,fastapi,ts,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,redux" />
 </p>
 
-### Data & Infrastructure
+### Databases & Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,vercel" />
 </p>
-
----
-
-# `♞ / GOING DEEPER`
-
-The current goal is **depth over tool collecting**.
-
-### Backend
-
-```text
-Node.js
-   ↓
-Express
-   ↓
-REST APIs
-   ↓
-Authentication
-   ↓
-Validation
-   ↓
-Error Handling
-   ↓
-Testing
-```
-
-### Databases
-
-```text
-Data Modeling
-      ↓
-Indexes
-      ↓
-Queries
-      ↓
-Transactions
-      ↓
-Performance
-```
-
-### Performance
-
-```text
-Caching
-   ↓
-Redis
-   ↓
-Query Optimization
-   ↓
-API Performance
-```
-
-### Computer Science
-
-```text
-DSA
- ↓
-Operating Systems
- ↓
-Networking
- ↓
-Concurrency
- ↓
-System Fundamentals
-```
 
 ---
 
@@ -237,7 +179,7 @@ System Fundamentals
 
 **Primary language:** `C++`
 
-I use Data Structures & Algorithms to improve algorithmic thinking, implementation and problem-solving ability.
+I use Data Structures & Algorithms to build rigorous problem-solving discipline, analyze time/space complexity, and write optimal code.
 
 <div align="center">
 
@@ -253,9 +195,9 @@ I use Data Structures & Algorithms to improve algorithmic thinking, implementati
 
 # `🎥 / BUILDING IN PUBLIC`
 
-I share DSA walkthroughs, coding problems and development content.
+I create technical walkthroughs on YouTube breaking down Data Structures & Algorithms and system concepts step-by-step.
 
-### Recent
+### Recent Walkthroughs
 
 **01** · [Maximum Product of Two Elements — LeetCode 1464](https://www.youtube.com/watch?v=ent6qxj7iMU)
 
@@ -265,7 +207,7 @@ I share DSA walkthroughs, coding problems and development content.
 
 **04** · [Median of Two Sorted Arrays — LeetCode 4](https://www.youtube.com/watch?v=2cBVYStPFNU)
 
-**[→ Visit YouTube](https://www.youtube.com/@raushannkumar07)**
+**[→ Visit YouTube Channel](https://www.youtube.com/@raushannkumar07)**
 
 ---
 
@@ -311,10 +253,10 @@ I share DSA walkthroughs, coding problems and development content.
 <br />
 
 <a href="https://raushankumar-dev.vercel.app/">Portfolio</a>
-  ·   <a href="https://www.linkedin.com/in/raushan150720/">LinkedIn</a>
-  ·   <a href="https://leetcode.com/u/raushankumar150720/">LeetCode</a>
-  ·   <a href="https://www.youtube.com/@raushannkumar07">YouTube</a>
-  ·   <a href="https://x.com/RaushanKum68222">X</a>
+&nbsp;·&nbsp; <a href="https://www.linkedin.com/in/raushan150720/">LinkedIn</a>
+&nbsp;·&nbsp; <a href="https://leetcode.com/u/raushankumar150720/">LeetCode</a>
+&nbsp;·&nbsp; <a href="https://www.youtube.com/@raushannkumar07">YouTube</a>
+&nbsp;·&nbsp; <a href="https://x.com/RaushanKum68222">X</a>
 
 <br /><br />
 
