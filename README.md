@@ -152,13 +152,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-### **Current Momentum & Focus**
-<p align="left">
-  <img src="https://img.shields.io/badge/Backend%20Architecture-85%25-0ea5e9?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B%20%26%20DSA-80%25-22c55e?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-75%25-f59e0b?style=for-the-badge&logo=blueprint&logoColor=white" />
-</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 </p>
