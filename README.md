@@ -4,11 +4,11 @@
 
 # RAUSHAN KUMAR
 
-### `FULL-STACK DEVELOPER`
+### `BACKEND & DISTRIBUTED SYSTEMS ENGINEER`
 
-`React` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL`
+`Python (FastAPI, Asyncio)` · `TypeScript` · `Distributed Systems` · `AI Infra`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=A1A1A6&center=true&vCenter=true&width=700&lines=BUILD+%E2%86%92+DEBUG+%E2%86%92+UNDERSTAND+%E2%86%92+SHIP;Full-Stack+Applications;Backend+Engineering;C%2B%2B+%7C+DSA+%7C+Problem+Solving" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=A1A1A6&center=true&vCenter=true&width=700&lines=BUILD+%E2%86%92+DEBUG+%E2%86%92+UNDERSTAND+%E2%86%92+SHIP;Backend+Engineering+%26+Asyncio;Distributed+Systems+%26+AI+Infra;Python+(FastAPI)+%7C+TypeScript+%7C+Redis" alt="Typing Animation" />
 
 <br />
 
@@ -35,79 +35,65 @@
 
 ## `♞ / WHO I AM`
 
-> **Computer Engineering student building full-stack applications and going deeper into backend engineering.**
+> **Backend Engineer specializing in Python (FastAPI, Asyncio), TypeScript, and Distributed Systems & AI Infrastructure.**
 
-I like understanding the complete path of a feature:
+I design and build resilient, asynchronous backend systems and event-driven architectures:
 
 ```text
-UI
+Client Event / Ingestion
  ↓
-API
+FastAPI / API Gateway
  ↓
-Business Logic
+Decoupled Async Worker Queue
  ↓
-Database
+LLM & AI Inference (Groq LPU)
  ↓
-Cache
+Distributed Cache & State Store (Redis / DB)
  ↓
-Deployment
+Telemetry & Client Delivery
 ```
 
-My focus is not just learning frameworks — it's learning **why the system works** and becoming better at building, debugging and shipping software.
+My focus is **performance, concurrency, and system resilience** — understanding how distributed components communicate and scale under real workloads.
 
 ---
 
 ## `⚡ / ENGINEERING SNAPSHOT`
 
-| Area                | Focus                                                       |
-| ------------------- | ----------------------------------------------------------- |
-| **Frontend**        | React · JavaScript · Tailwind CSS · Redux Toolkit           |
-| **Backend**         | Node.js · Express.js · REST APIs · JWT · Socket.IO          |
-| **Databases**       | MongoDB · PostgreSQL · Redis                                |
-| **Problem Solving** | C++ · Data Structures · Algorithms                          |
-| **Tools**           | Git · GitHub · Postman · Vercel · Render · Docker           |
-| **Exploring**       | Backend Architecture · System Fundamentals · AI Integration |
+| Area                | Focus                                                                |
+| ------------------- | -------------------------------------------------------------------- |
+| **Backend**         | Python (FastAPI, Asyncio) · TypeScript · Node.js · REST APIs · Async Workers |
+| **Distributed & AI**| Distributed Systems · Event Pipelines · Groq / LLM Infra · Redis Caching |
+| **Databases**       | PostgreSQL · Redis · MongoDB                                         |
+| **Problem Solving** | C++ · Data Structures · Algorithms · Concurrency                     |
+| **Tools & Infra**   | Docker · Git · Linux · Postman · CI/CD · Vercel                      |
+| **Frontend**        | React · TypeScript · Tailwind CSS                                    |
 
 ---
 
 # `♞ / SELECTED WORK`
 
-## `01` — UI Intelligence Engine
+## `01` — Digital Twin Autopilot
 
-**AI-assisted UI analysis platform**
+**Autonomous AI Persona & Low-Latency Event Flow Daemon**
 
-`React` `Express.js` `JWT` `AI`
+`Python` `FastAPI` `Asyncio` `Telethon` `Groq LPU` `React`
 
-Analyze UI screenshots and surface insights around **component patterns, layout inconsistencies and accessibility**.
+A real-time, event-driven personal AI twin integrating with Telegram. Features dynamic personality dials, slang matching, and asynchronous background worker pipelines.
 
-### Engineering
+### Architecture & Event Flow
 
 ```text
-React
-  │
-  ▼
-Express REST API
-  │
-  ├── JWT Authentication
-  │
-  ▼
-AI Analysis
-  │
-  ▼
-Structured UI Insights
+Telegram Event ──> FastAPI Gateway ──> Async Worker ──> Groq LPU (Llama-3) ──> Client Dispatch
 ```
 
-### Built
+### Engineering Highlights
 
-* Screenshot upload and analysis workflow
-* React frontend
-* Express.js REST API
-* JWT authentication
-* AI-assisted analysis
-* Independent frontend/backend deployment
+* **Decoupled Event Architecture**: FastAPI gateway offloading requests to an asynchronous Telethon worker daemon.
+* **Low-Latency Inference**: Sub-second contextual response generation leveraging Groq's LPU.
+* **Persona Dial Engine**: Contextual slang matching with realistic simulated human typing intervals.
+* **Telemetry Dashboard**: React/Vite control center with live activity streams and granular contact whitelists.
 
-**[Repository →](YOUR_UI_INTELLIGENCE_REPO)**
-**[Live Demo →](YOUR_UI_INTELLIGENCE_DEMO)**
+**[Repository →](https://github.com/Raushankumar0720/digital-twin-autopilot)**
 
 ---
 
@@ -166,7 +152,7 @@ Frontend builds · UI recreations · DSA implementations · experiments
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,ts,nodejs,express" />
 </p>
 
 ### Data & Infrastructure
