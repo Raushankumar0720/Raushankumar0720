@@ -64,7 +64,7 @@
 
    </td>
     <td width="42%" align="center" valign="middle">
-      <img src="assets/developer_workspace.jpg" style="width:100%;max-width:380px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,0.6);border:1px solid #1e293b;" alt="Raushan Kumar Developer Workstation" />
+      <img src="assets/developer_animation.gif" style="width:100%;max-width:390px;border-radius:12px;box-shadow:0 10px 30px rgba(0,240,255,0.15);border:1px solid #1e293b;" alt="Raushan Kumar Developer Animation" />
     </td>
   </tr>
 </table>
