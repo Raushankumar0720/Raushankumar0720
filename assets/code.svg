@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 350" width="570" height="350" fill="none">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; rx: 12px; }
+    .header { fill: #161b22; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+    .tab { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6px; }
+    .tab-text { font-family: 'JetBrains Mono', -apple-system, monospace; font-size: 11px; fill: #c9d1d9; font-weight: 600; }
+    .code { font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; font-size: 11.5px; }
+    .ln { fill: #484f58; text-anchor: end; user-select: none; }
+    .kw { fill: #ff7b72; font-weight: 600; }
+    .fn { fill: #d2a8ff; font-weight: 600; }
+    .cls { fill: #79c0ff; font-weight: 600; }
+    .prop { fill: #79c0ff; }
+    .str { fill: #a5d6ff; }
+    .op { fill: #ff7b72; }
+    .punct { fill: #c9d1d9; }
+    .comment { fill: #8b949e; font-style: italic; }
+  </style>
+
+  <!-- Window Container -->
+  <rect width="570" height="350" class="bg" />
+  
+  <!-- Header Bar -->
+  <path d="M 0 12 C 0 5.37 5.37 0 12 0 L 558 0 C 564.63 0 570 5.37 570 12 L 570 38 L 0 38 Z" class="header" />
+  <line x1="0" y1="38" x2="570" y2="38" stroke="#30363d" stroke-width="1" />
+  
+  <!-- Window Dots -->
+  <circle cx="20" cy="19" r="6" class="dot-red" />
+  <circle cx="38" cy="19" r="6" class="dot-yellow" />
+  <circle cx="56" cy="19" r="6" class="dot-green" />
+
+  <!-- Active Tab -->
+  <rect x="80" y="8" width="120" height="24" class="tab" />
+  <rect x="88" y="13" width="14" height="14" rx="2" fill="#f7df1e" />
+  <text x="91" y="24" fill="#000000" font-family="monospace" font-size="9px" font-weight="900">JS</text>
+  <text x="110" y="24" class="tab-text">raushan.js</text>
+
+  <!-- Code Body -->
+  <g class="code" xml:space="preserve" transform="translate(15, 60)">
+    <!-- Line numbers -->
+    <text x="20" y="0" class="ln">1</text>
+    <text x="20" y="18" class="ln">2</text>
+    <text x="20" y="36" class="ln">3</text>
+    <text x="20" y="54" class="ln">4</text>
+    <text x="20" y="72" class="ln">5</text>
+    <text x="20" y="90" class="ln">6</text>
+    <text x="20" y="108" class="ln">7</text>
+    <text x="20" y="126" class="ln">8</text>
+    <text x="20" y="144" class="ln">9</text>
+    <text x="20" y="162" class="ln">10</text>
+    <text x="20" y="180" class="ln">11</text>
+    <text x="20" y="198" class="ln">12</text>
+    <text x="20" y="216" class="ln">13</text>
+    <text x="20" y="234" class="ln">14</text>
+    <text x="20" y="252" class="ln">15</text>
+    <text x="20" y="270" class="ln">16</text>
+
+    <!-- Code text -->
+    <text x="40" y="0"><tspan class="kw">class</tspan> <tspan class="cls">RaushanKumar</tspan> <tspan class="kw">extends</tspan> <tspan class="cls">SoftwareEngineer</tspan> <tspan class="punct">{</tspan></text>
+    <text x="40" y="18">  <tspan class="kw">constructor</tspan><tspan class="punct">() {</tspan></text>
+    <text x="40" y="36">    <tspan class="kw">super</tspan><tspan class="punct">();</tspan></text>
+    <text x="40" y="54">    <tspan class="prop">this</tspan><tspan class="punct">.</tspan><tspan class="prop">name</tspan> <tspan class="op">=</tspan> <tspan class="str">"Raushan Kumar"</tspan><tspan class="punct">;</tspan></text>
+    <text x="40" y="72">    <tspan class="prop">this</tspan><tspan class="punct">.</tspan><tspan class="prop">role</tspan> <tspan class="op">=</tspan> <tspan class="str">"Software &amp; AI Systems Engineer"</tspan><tspan class="punct">;</tspan></text>
+    <text x="40" y="90">    <tspan class="prop">this</tspan><tspan class="punct">.</tspan><tspan class="prop">focus</tspan> <tspan class="op">=</tspan> <tspan class="punct">[</tspan><tspan class="str">"Backend Architecture"</tspan><tspan class="punct">, </tspan><tspan class="str">"AI Agents"</tspan><tspan class="punct">, </tspan><tspan class="str">"DSA in C++"</tspan><tspan class="punct">];</tspan></text>
+    <text x="40" y="108">    <tspan class="prop">this</tspan><tspan class="punct">.</tspan><tspan class="prop">stack</tspan> <tspan class="op">=</tspan> <tspan class="punct">{</tspan></text>
+    <text x="40" y="126">      <tspan class="prop">languages</tspan><tspan class="punct">: [</tspan><tspan class="str">"TypeScript"</tspan><tspan class="punct">, </tspan><tspan class="str">"JavaScript"</tspan><tspan class="punct">, </tspan><tspan class="str">"C++"</tspan><tspan class="punct">, </tspan><tspan class="str">"Python"</tspan><tspan class="punct">],</tspan></text>
+    <text x="40" y="144">      <tspan class="prop">backend</tspan><tspan class="punct">:   [</tspan><tspan class="str">"Node.js"</tspan><tspan class="punct">, </tspan><tspan class="str">"Express"</tspan><tspan class="punct">, </tspan><tspan class="str">"MongoDB"</tspan><tspan class="punct">, </tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="punct">],</tspan></text>
+    <text x="40" y="162">      <tspan class="prop">frontend</tspan><tspan class="punct">:  [</tspan><tspan class="str">"React"</tspan><tspan class="punct">, </tspan><tspan class="str">"Vite"</tspan><tspan class="punct">, </tspan><tspan class="str">"Tailwind CSS"</tspan><tspan class="punct">, </tspan><tspan class="str">"Framer Motion"</tspan><tspan class="punct">],</tspan></text>
+    <text x="40" y="180">      <tspan class="prop">ai_infra</tspan><tspan class="punct">:  [</tspan><tspan class="str">"Groq LPU"</tspan><tspan class="punct">, </tspan><tspan class="str">"LiteLLM"</tspan><tspan class="punct">, </tspan><tspan class="str">"Llama-3"</tspan><tspan class="punct">, </tspan><tspan class="str">"FastAPI"</tspan><tspan class="punct">]</tspan></text>
+    <text x="40" y="198">    <tspan class="punct">};</tspan></text>
+    <text x="40" y="216">  <tspan class="punct">}</tspan></text>
+    <text x="40" y="234">  <tspan class="fn">currentFocus</tspan><tspan class="punct">() {</tspan></text>
+    <text x="40" y="252">    <tspan class="kw">return</tspan> <tspan class="str">"Contributing to CNCF &amp; shipping production AI systems 🚀"</tspan><tspan class="punct">;</tspan></text>
+    <text x="40" y="270">  <tspan class="punct">}</tspan></text>
+    <text x="40" y="288"><tspan class="punct">}</tspan></text>
+  </g>
+</svg>
