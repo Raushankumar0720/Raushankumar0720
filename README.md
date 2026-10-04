@@ -164,12 +164,80 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 </p>
 
+## 🌐 Open Source Engineering & Contributions
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4><b>⚡ CNCF / Meshery</b></h4>
+      <p><b>Cloud Native Service Mesh Management Plane</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/CNCF-white?style=flat-square&logo=cncf&logoColor=black" />
+      </p>
+      <ul>
+        <li><b>PR #22214</b>: Hardened version comparator contract, prevented array state mutation, and ensured robust SemVer sorting in core UI utilities.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/meshery/meshery/pull/22214"><b>View CNCF PR →</b></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4><b>🤖 LiteLLM / BerriAI</b></h4>
+      <p><b>Universal AI Gateway & LLM Orchestration (100+ LLMs)</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%20Gateway-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>PR #44009</b>: Preserved 1D vector embeddings across Snowflake response transformation pipelines.</li>
+        <li><b>PR #42887</b>: Sanitized trailing slash resolution across provider URL routes.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/BerriAI/litellm/pull/44009"><b>View LiteLLM PR →</b></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4><b>📡 AsyncAPI / Linux Foundation</b></h4>
+      <p><b>Event-Driven Architecture & Spec Tooling</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/REST-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Linux%20Foundation-black?style=flat-square&logo=linux&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>PR #1391</b>: Implemented HTTP response status verification and error handling for remote fetch network pipelines.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/asyncapi/studio/pull/1391"><b>View AsyncAPI PR →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+</p>
+
 ## 🚀 Featured Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><code>01</code> <a href="https://github.com/Raushankumar0720/amazon_orders_raushan_kumar">Amazon Orders Analytics Backend</a></h3>
+      <h3><code>01</code> <a href="https://github.com/Raushankumar0720/digital-twin-autopilot">Digital Twin Autopilot</a></h3>
+      <p><b>Autonomous AI persona clone & telemetry console with real-time event flow</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-936cff?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq%20LPU-f50057?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Telemetry Dashboard</b>: Single-page React/Vite console designed with executive telemetry panels.</li>
+        <li><b>Low-Latency Inference</b>: Sub-second contextual persona replies powered by Groq LPU engine.</li>
+        <li><b>Event Automation</b>: Real-time background listener daemon with automated contact whitelisting.</li>
+        <li><b>Slang & Personality Dial</b>: Custom heuristic matching engine mimicking realistic conversational cadence.</li>
+      </ul>
+      <p align="right"><b><a href="https://github.com/Raushankumar0720/digital-twin-autopilot">View Repository →</a></b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><code>02</code> <a href="https://github.com/Raushankumar0720/amazon_orders_raushan_kumar">Amazon Orders Analytics Backend</a></h3>
       <p><b>Production-grade e-commerce analytics backend with MongoDB aggregation pipelines</b></p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -185,22 +253,39 @@
       </ul>
       <p align="right"><b><a href="https://github.com/Raushankumar0720/amazon_orders_raushan_kumar">View Repository →</a></b></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3><code>02</code> <a href="https://github.com/Raushankumar0720/digital-twin-autopilot">Digital Twin Autopilot</a></h3>
-      <p><b>Autonomous AI persona clone & telemetry console with real-time event flow</b></p>
+      <h3><code>03</code> <a href="https://github.com/Raushankumar0720/UI-Intelligence-Engine">UI Intelligence Engine</a></h3>
+      <p><b>Analytical Design Ledger & AI Component Quality Simulator</b></p>
       <p>
         <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vite-936cff?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Groq%20LPU-f50057?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%20Auditing-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
       <ul>
-        <li><b>Telemetry Dashboard</b>: Single-page React/Vite console designed with executive telemetry panels.</li>
-        <li><b>Low-Latency Inference</b>: Sub-second contextual persona replies powered by Groq LPU engine.</li>
-        <li><b>Event Automation</b>: Real-time background listener daemon with automated contact whitelisting.</li>
-        <li><b>Slang & Personality Dial</b>: Custom heuristic matching engine mimicking realistic conversational cadence.</li>
+        <li><b>High-Fidelity AI Simulation</b>: Automated audit of generated components against elite engineering benchmarks.</li>
+        <li><b>Quality Scoring</b>: Comprehensive real-time analysis for Performance, Accessibility (a11y), and SEO.</li>
+        <li><b>Interactive Playground</b>: Instant visual feedback and export-ready clean component code generation.</li>
       </ul>
-      <p align="right"><b><a href="https://github.com/Raushankumar0720/digital-twin-autopilot">View Repository →</a></b></p>
+      <p align="right"><b><a href="https://github.com/Raushankumar0720/UI-Intelligence-Engine">View Repository →</a></b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><code>04</code> <a href="https://github.com/Raushankumar0720/raushan-portfolio">Engineering Portfolio Portal</a></h3>
+      <p><b>Curated interactive portfolio built with React 19, Framer Motion & Dynamic Design Systems</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/React%2019-61dafb?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-936cff?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/SEO%20Optimized-0284c7?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Multi-Theme Architecture</b>: 5 bespoke design palettes including Apple-inspired and Industrial themes.</li>
+        <li><b>Smooth Kinetic UI</b>: Hardware-accelerated transitions and interactive micro-animations.</li>
+        <li><b>Responsive & SEO Ready</b>: 100/100 Lighthouse benchmark targets and rich metadata schema.</li>
+      </ul>
+      <p align="right"><b><a href="https://github.com/Raushankumar0720/raushan-portfolio">View Repository →</a></b></p>
     </td>
   </tr>
 </table>
