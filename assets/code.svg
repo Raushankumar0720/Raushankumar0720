@@ -1,79 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 350" width="570" height="350" fill="none">
-  <style>
-    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; rx: 12px; }
-    .header { fill: #161b22; }
-    .dot-red { fill: #ff5f56; }
-    .dot-yellow { fill: #ffbd2e; }
-    .dot-green { fill: #27c93f; }
-    .tab { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6px; }
-    .tab-text { font-family: 'JetBrains Mono', -apple-system, monospace; font-size: 11px; fill: #c9d1d9; font-weight: 600; }
-    .code { font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; font-size: 11.5px; }
-    .ln { fill: #484f58; text-anchor: end; user-select: none; }
-    .kw { fill: #ff7b72; font-weight: 600; }
-    .fn { fill: #d2a8ff; font-weight: 600; }
-    .cls { fill: #79c0ff; font-weight: 600; }
-    .prop { fill: #79c0ff; }
-    .str { fill: #a5d6ff; }
-    .op { fill: #ff7b72; }
-    .punct { fill: #c9d1d9; }
-    .comment { fill: #8b949e; font-style: italic; }
-  </style>
-
-  <!-- Window Container -->
-  <rect width="570" height="350" class="bg" />
-  
-  <!-- Header Bar -->
-  <path d="M 0 12 C 0 5.37 5.37 0 12 0 L 558 0 C 564.63 0 570 5.37 570 12 L 570 38 L 0 38 Z" class="header" />
-  <line x1="0" y1="38" x2="570" y2="38" stroke="#30363d" stroke-width="1" />
-  
-  <!-- Window Dots -->
-  <circle cx="20" cy="19" r="6" class="dot-red" />
-  <circle cx="38" cy="19" r="6" class="dot-yellow" />
-  <circle cx="56" cy="19" r="6" class="dot-green" />
-
-  <!-- Active Tab -->
-  <rect x="80" y="8" width="120" height="24" class="tab" />
-  <rect x="88" y="13" width="14" height="14" rx="2" fill="#f7df1e" />
-  <text x="91" y="24" fill="#000000" font-family="monospace" font-size="9px" font-weight="900">JS</text>
-  <text x="110" y="24" class="tab-text">raushan.js</text>
-
-  <!-- Code Body -->
-  <g class="code" xml:space="preserve" transform="translate(15, 60)">
-    <!-- Line numbers -->
-    <text x="20" y="0" class="ln">1</text>
-    <text x="20" y="18" class="ln">2</text>
-    <text x="20" y="36" class="ln">3</text>
-    <text x="20" y="54" class="ln">4</text>
-    <text x="20" y="72" class="ln">5</text>
-    <text x="20" y="90" class="ln">6</text>
-    <text x="20" y="108" class="ln">7</text>
-    <text x="20" y="126" class="ln">8</text>
-    <text x="20" y="144" class="ln">9</text>
-    <text x="20" y="162" class="ln">10</text>
-    <text x="20" y="180" class="ln">11</text>
-    <text x="20" y="198" class="ln">12</text>
-    <text x="20" y="216" class="ln">13</text>
-    <text x="20" y="234" class="ln">14</text>
-    <text x="20" y="252" class="ln">15</text>
-    <text x="20" y="270" class="ln">16</text>
-
-    <!-- Code text -->
-    <text x="40" y="0"><tspan class="kw">class</tspan> <tspan class="cls">RaushanKumar</tspan> <tspan class="kw">extends</tspan> <tspan class="cls">SoftwareEngineer</tspan> <tspan class="punct">{</tspan></text>
-    <text x="40" y="18">  <tspan class="kw">constructor</tspan><tspan class="punct">() {</tspan></text>
-    <text x="40" y="36">    <tspan class="kw">super</tspan><tspan class="punct">();</tspan></text>
-    <text x="40" y="54">    <tspan class="prop">this</tspan><tspan class="punct">.</tspan><tspan class="prop">name</tspan> <tspan class="op">=</tspan> <tspan class="str">"Raushan Kumar"</tspan><tspan class="punct">;</tspan></text>
-    <text x="40" y="72">    <tspan class="prop">this</tspan><tspan class="punct">.</tspan><tspan class="prop">role</tspan> <tspan class="op">=</tspan> <tspan class="str">"Software &amp; AI Systems Engineer"</tspan><tspan class="punct">;</tspan></text>
-    <text x="40" y="90">    <tspan class="prop">this</tspan><tspan class="punct">.</tspan><tspan class="prop">focus</tspan> <tspan class="op">=</tspan> <tspan class="punct">[</tspan><tspan class="str">"Backend Architecture"</tspan><tspan class="punct">, </tspan><tspan class="str">"AI Agents"</tspan><tspan class="punct">, </tspan><tspan class="str">"DSA in C++"</tspan><tspan class="punct">];</tspan></text>
-    <text x="40" y="108">    <tspan class="prop">this</tspan><tspan class="punct">.</tspan><tspan class="prop">stack</tspan> <tspan class="op">=</tspan> <tspan class="punct">{</tspan></text>
-    <text x="40" y="126">      <tspan class="prop">languages</tspan><tspan class="punct">: [</tspan><tspan class="str">"TypeScript"</tspan><tspan class="punct">, </tspan><tspan class="str">"JavaScript"</tspan><tspan class="punct">, </tspan><tspan class="str">"C++"</tspan><tspan class="punct">, </tspan><tspan class="str">"Python"</tspan><tspan class="punct">],</tspan></text>
-    <text x="40" y="144">      <tspan class="prop">backend</tspan><tspan class="punct">:   [</tspan><tspan class="str">"Node.js"</tspan><tspan class="punct">, </tspan><tspan class="str">"Express"</tspan><tspan class="punct">, </tspan><tspan class="str">"MongoDB"</tspan><tspan class="punct">, </tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="punct">],</tspan></text>
-    <text x="40" y="162">      <tspan class="prop">frontend</tspan><tspan class="punct">:  [</tspan><tspan class="str">"React"</tspan><tspan class="punct">, </tspan><tspan class="str">"Vite"</tspan><tspan class="punct">, </tspan><tspan class="str">"Tailwind CSS"</tspan><tspan class="punct">, </tspan><tspan class="str">"Framer Motion"</tspan><tspan class="punct">],</tspan></text>
-    <text x="40" y="180">      <tspan class="prop">ai_infra</tspan><tspan class="punct">:  [</tspan><tspan class="str">"Groq LPU"</tspan><tspan class="punct">, </tspan><tspan class="str">"LiteLLM"</tspan><tspan class="punct">, </tspan><tspan class="str">"Llama-3"</tspan><tspan class="punct">, </tspan><tspan class="str">"FastAPI"</tspan><tspan class="punct">]</tspan></text>
-    <text x="40" y="198">    <tspan class="punct">};</tspan></text>
-    <text x="40" y="216">  <tspan class="punct">}</tspan></text>
-    <text x="40" y="234">  <tspan class="fn">currentFocus</tspan><tspan class="punct">() {</tspan></text>
-    <text x="40" y="252">    <tspan class="kw">return</tspan> <tspan class="str">"Contributing to CNCF &amp; shipping production AI systems 🚀"</tspan><tspan class="punct">;</tspan></text>
-    <text x="40" y="270">  <tspan class="punct">}</tspan></text>
-    <text x="40" y="288"><tspan class="punct">}</tspan></text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="655" height="510" viewBox="0 0 655 510" font-family="'SFMono-Regular','Consolas','Liberation Mono',monospace" font-size="14.5">
+  <defs>
+<clipPath id="cl0"><rect x="26" y="51.0" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.0200;0.0462;0.995;1" values="0;0;180.0;180.0;0"/></rect></clipPath>
+<clipPath id="cl1"><rect x="26" y="73.5" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.0542;0.0791;0.995;1" values="0;0;171.0;171.0;0"/></rect></clipPath>
+<clipPath id="cl2"><rect x="26" y="96.0" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.0871;0.1461;0.995;1" values="0;0;405.0;405.0;0"/></rect></clipPath>
+<clipPath id="cl3"><rect x="26" y="118.5" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.1541;0.2314;0.995;1" values="0;0;531.0;531.0;0"/></rect></clipPath>
+<clipPath id="cl4"><rect x="26" y="141.0" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.2394;0.3206;0.995;1" values="0;0;558.0;558.0;0"/></rect></clipPath>
+<clipPath id="cl5"><rect x="26" y="163.5" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.3286;0.4177;0.995;1" values="0;0;612.0;612.0;0"/></rect></clipPath>
+<clipPath id="cl6"><rect x="26" y="186.0" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.4257;0.4323;0.995;1" values="0;0;45.0;45.0;0"/></rect></clipPath>
+<clipPath id="cl8"><rect x="26" y="231.0" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.4403;0.4665;0.995;1" values="0;0;180.0;180.0;0"/></rect></clipPath>
+<clipPath id="cl9"><rect x="26" y="253.5" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.4745;0.4954;0.995;1" values="0;0;144.0;144.0;0"/></rect></clipPath>
+<clipPath id="cl10"><rect x="26" y="276.0" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.5034;0.5834;0.995;1" values="0;0;549.0;549.0;0"/></rect></clipPath>
+<clipPath id="cl11"><rect x="26" y="298.5" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.5914;0.6713;0.995;1" values="0;0;549.0;549.0;0"/></rect></clipPath>
+<clipPath id="cl12"><rect x="26" y="321.0" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.6793;0.7658;0.995;1" values="0;0;594.0;594.0;0"/></rect></clipPath>
+<clipPath id="cl13"><rect x="26" y="343.5" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.7738;0.7869;0.995;1" values="0;0;90.0;90.0;0"/></rect></clipPath>
+<clipPath id="cl14"><rect x="26" y="366.0" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.7949;0.8014;0.995;1" values="0;0;45.0;45.0;0"/></rect></clipPath>
+<clipPath id="cl16"><rect x="26" y="411.0" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.8094;0.8330;0.995;1" values="0;0;162.0;162.0;0"/></rect></clipPath>
+<clipPath id="cl17"><rect x="26" y="433.5" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.8410;0.8921;0.995;1" values="0;0;351.0;351.0;0"/></rect></clipPath>
+<clipPath id="cl18"><rect x="26" y="456.0" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.9001;0.9067;0.995;1" values="0;0;45.0;45.0;0"/></rect></clipPath>
+<clipPath id="cl19"><rect x="26" y="478.5" height="21" width="0"><animate attributeName="width" dur="14.5s" repeatCount="indefinite" keyTimes="0;0.9147;0.9160;0.995;1" values="0;0;9.0;9.0;0"/></rect></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="654" height="509" rx="14" fill="#0d1117" stroke="#232b36"/>
+  <rect x="1" y="1" width="653" height="44" rx="13" fill="#161b22"/>
+  <rect x="1" y="32" width="653" height="20" fill="#161b22"/>
+  <circle cx="26" cy="26" r="6.5" fill="#ff5f56"/><circle cx="48" cy="26" r="6.5" fill="#ffbd2e"/><circle cx="70" cy="26" r="6.5" fill="#27c93f"/>
+  <text x="328" y="31" text-anchor="middle" font-size="13" fill="#6b7689" font-family="monospace">raushan.js</text>
+  <line x1="0" y1="44" x2="655" y2="44" stroke="#232b36"/>
+<text x="26" y="66.0" clip-path="url(#cl0)" xml:space="preserve"><tspan fill="#c792ea" xml:space="preserve">class</tspan><tspan fill="#b9c2d0" xml:space="preserve"> </tspan><tspan fill="#ffcb6b" xml:space="preserve">RaushanKumar</tspan><tspan fill="#89ddff" xml:space="preserve"> {</tspan></text>
+<text x="26" y="88.5" clip-path="url(#cl1)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">    </tspan><tspan fill="#82aaff" xml:space="preserve">constructor</tspan><tspan fill="#89ddff" xml:space="preserve">() {</tspan></text>
+<text x="26" y="111.0" clip-path="url(#cl2)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">        </tspan><tspan fill="#f78c6c" xml:space="preserve">this</tspan><tspan fill="#89ddff" xml:space="preserve">.</tspan><tspan fill="#b9c2d0" xml:space="preserve">location</tspan><tspan fill="#89ddff" xml:space="preserve">   = </tspan><tspan fill="#c3e88d" xml:space="preserve">"Ahmedabad, India"</tspan><tspan fill="#89ddff" xml:space="preserve">;</tspan></text>
+<text x="26" y="133.5" clip-path="url(#cl3)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">        </tspan><tspan fill="#f78c6c" xml:space="preserve">this</tspan><tspan fill="#89ddff" xml:space="preserve">.</tspan><tspan fill="#b9c2d0" xml:space="preserve">role</tspan><tspan fill="#89ddff" xml:space="preserve">       = </tspan><tspan fill="#c3e88d" xml:space="preserve">"Software &amp; AI Systems Engineer"</tspan><tspan fill="#89ddff" xml:space="preserve">;</tspan></text>
+<text x="26" y="156.0" clip-path="url(#cl4)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">        </tspan><tspan fill="#f78c6c" xml:space="preserve">this</tspan><tspan fill="#89ddff" xml:space="preserve">.</tspan><tspan fill="#b9c2d0" xml:space="preserve">open_source</tspan><tspan fill="#89ddff" xml:space="preserve">= </tspan><tspan fill="#c3e88d" xml:space="preserve">"CNCF Meshery · LiteLLM · AsyncAPI"</tspan><tspan fill="#89ddff" xml:space="preserve">;</tspan></text>
+<text x="26" y="178.5" clip-path="url(#cl5)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">        </tspan><tspan fill="#f78c6c" xml:space="preserve">this</tspan><tspan fill="#89ddff" xml:space="preserve">.</tspan><tspan fill="#b9c2d0" xml:space="preserve">rule</tspan><tspan fill="#89ddff" xml:space="preserve">       = </tspan><tspan fill="#c3e88d" xml:space="preserve">"1 hr of tutorials -&gt; 2 hrs of building."</tspan><tspan fill="#89ddff" xml:space="preserve">;</tspan></text>
+<text x="26" y="201.0" clip-path="url(#cl6)" xml:space="preserve"><tspan fill="#89ddff" xml:space="preserve">    }</tspan></text>
+<text x="26" y="246.0" clip-path="url(#cl8)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">    </tspan><tspan fill="#82aaff" xml:space="preserve">currentGrind</tspan><tspan fill="#89ddff" xml:space="preserve">() {</tspan></text>
+<text x="26" y="268.5" clip-path="url(#cl9)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">        </tspan><tspan fill="#c792ea" xml:space="preserve">return</tspan><tspan fill="#89ddff" xml:space="preserve"> {</tspan></text>
+<text x="26" y="291.0" clip-path="url(#cl10)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">            </tspan><tspan fill="#c3e88d" xml:space="preserve">"ai"</tspan><tspan fill="#89ddff" xml:space="preserve">:</tspan><tspan fill="#b9c2d0" xml:space="preserve">       </tspan><tspan fill="#c3e88d" xml:space="preserve">"Autonomous Agents, Groq LPU &amp; LLMs"</tspan><tspan fill="#89ddff" xml:space="preserve">,</tspan></text>
+<text x="26" y="313.5" clip-path="url(#cl11)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">            </tspan><tspan fill="#c3e88d" xml:space="preserve">"dsa"</tspan><tspan fill="#89ddff" xml:space="preserve">:</tspan><tspan fill="#b9c2d0" xml:space="preserve">      </tspan><tspan fill="#c3e88d" xml:space="preserve">"LeetCode streak &amp; C++ Walkthroughs"</tspan><tspan fill="#89ddff" xml:space="preserve">,</tspan></text>
+<text x="26" y="336.0" clip-path="url(#cl12)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">            </tspan><tspan fill="#c3e88d" xml:space="preserve">"systems"</tspan><tspan fill="#89ddff" xml:space="preserve">:</tspan><tspan fill="#b9c2d0" xml:space="preserve">  </tspan><tspan fill="#c3e88d" xml:space="preserve">"Node.js, Express &amp; MongoDB Aggregations"</tspan><tspan fill="#89ddff" xml:space="preserve">,</tspan></text>
+<text x="26" y="358.5" clip-path="url(#cl13)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">        </tspan><tspan fill="#89ddff" xml:space="preserve">};</tspan></text>
+<text x="26" y="381.0" clip-path="url(#cl14)" xml:space="preserve"><tspan fill="#89ddff" xml:space="preserve">    }</tspan></text>
+<text x="26" y="426.0" clip-path="url(#cl16)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">    </tspan><tspan fill="#82aaff" xml:space="preserve">philosophy</tspan><tspan fill="#89ddff" xml:space="preserve">() {</tspan></text>
+<text x="26" y="448.5" clip-path="url(#cl17)" xml:space="preserve"><tspan fill="#b9c2d0" xml:space="preserve">        </tspan><tspan fill="#c792ea" xml:space="preserve">return</tspan><tspan fill="#b9c2d0" xml:space="preserve"> </tspan><tspan fill="#c3e88d" xml:space="preserve">"Outputs &gt; Consumption"</tspan><tspan fill="#89ddff" xml:space="preserve">;</tspan></text>
+<text x="26" y="471.0" clip-path="url(#cl18)" xml:space="preserve"><tspan fill="#89ddff" xml:space="preserve">    }</tspan></text>
+<text x="26" y="493.5" clip-path="url(#cl19)" xml:space="preserve"><tspan fill="#89ddff" xml:space="preserve">}</tspan></text>
+  <rect id="caret" x="26" y="55.0" width="7.6" height="15" fill="#00f0ff">
+    <animate attributeName="x" dur="14.5s" repeatCount="indefinite" keyTimes="0.0000;0.0200;0.0462;0.0542;0.0791;0.0871;0.1461;0.1541;0.2314;0.2394;0.3206;0.3286;0.4177;0.4257;0.4323;0.4403;0.4665;0.4745;0.4954;0.5034;0.5834;0.5914;0.6713;0.6793;0.7658;0.7738;0.7869;0.7949;0.8014;0.8094;0.8330;0.8410;0.8921;0.9001;0.9067;0.9147;0.9160;1.0000" values="26;26;208.0;26;199.0;26;433.0;26;559.0;26;586.0;26;640.0;26;73.0;26;208.0;26;172.0;26;577.0;26;577.0;26;622.0;26;118.0;26;73.0;26;190.0;26;379.0;26;73.0;26;37.0;26"/>
+    <animate attributeName="y" dur="14.5s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0200;0.0542;0.0871;0.1541;0.2394;0.3286;0.4257;0.4403;0.4745;0.5034;0.5914;0.6793;0.7738;0.7949;0.8094;0.8410;0.9001;0.9147;1.0000" values="54.0;54.0;76.5;99.0;121.5;144.0;166.5;189.0;234.0;256.5;279.0;301.5;324.0;346.5;369.0;414.0;436.5;459.0;481.5;54.0"/>
+    <animate attributeName="opacity" dur="1s" repeatCount="indefinite" keyTimes="0;0.5;0.5;1" values="1;1;0.15;0.15" calcMode="discrete"/>
+  </rect>
 </svg>

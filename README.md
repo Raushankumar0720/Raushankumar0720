@@ -29,26 +29,22 @@
   <img src="https://komarev.com/ghpvc/?username=Raushankumar0720&label=Views&color=0ea5e9&style=flat-square&labelColor=0d1117" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
-</p>
+<br/>
+
+<img src="assets/brand/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ SHORT VERSION ═══════════════════════ -->
-<p align="left">
-  <img src="assets/h-short.svg" height="52" alt="The short version" />
-</p>
+<img src="assets/brand/h-short.svg?v=2" height="56" alt="The short version" />
 
 <div align="center">
-  <img src="assets/code.svg" height="310" alt="class RaushanKumar — JavaScript" />
+  <img src="assets/code.svg" height="300" alt="class RaushanKumar — typed out" />
   &nbsp;&nbsp;
-  <img src="assets/developer_animation.gif" height="310" style="border-radius:12px;box-shadow:0 10px 30px rgba(0,240,255,0.15);border:1px solid #30363d;" alt="Raushan Kumar Animation" />
+  <img src="assets/animation.svg" height="300" alt="Raushan Kumar — live ASCII portrait" />
 </div>
 
-<br />
+<br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
-</p>
+<img src="assets/brand/divider.svg" width="100%" alt="" />
 
 <div align="center">
   <table align="center">
