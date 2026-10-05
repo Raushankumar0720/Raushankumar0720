@@ -181,57 +181,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 </p>
 
-## 🌐 Open Source Engineering & Contributions
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4><b>⚡ CNCF / Meshery</b></h4>
-      <p><b>Cloud Native Service Mesh Management Plane</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/CNCF-white?style=flat-square&logo=cncf&logoColor=black" />
-      </p>
-      <ul>
-        <li><b>PR #22214</b>: Hardened version comparator contract, prevented array state mutation, and ensured robust SemVer sorting in core UI utilities.</li>
-      </ul>
-      <p align="right"><a href="https://github.com/meshery/meshery/pull/22214"><b>View CNCF PR →</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4><b>🤖 LiteLLM / BerriAI</b></h4>
-      <p><b>Universal AI Gateway & LLM Orchestration (100+ LLMs)</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI%20Gateway-00F0FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-      <ul>
-        <li><b>PR #44009</b>: Preserved 1D vector embeddings across Snowflake response transformation pipelines.</li>
-        <li><b>PR #42887</b>: Sanitized trailing slash resolution across provider URL routes.</li>
-      </ul>
-      <p align="right"><a href="https://github.com/BerriAI/litellm/pull/44009"><b>View LiteLLM PR →</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4><b>📡 AsyncAPI / Linux Foundation</b></h4>
-      <p><b>Event-Driven Architecture & Spec Tooling</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/REST-0EA5E9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Linux%20Foundation-black?style=flat-square&logo=linux&logoColor=white" />
-      </p>
-      <ul>
-        <li><b>PR #1391</b>: Implemented HTTP response status verification and error handling for remote fetch network pipelines.</li>
-      </ul>
-      <p align="right"><a href="https://github.com/asyncapi/studio/pull/1391"><b>View AsyncAPI PR →</b></a></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
-</p>
-
 ## 🚀 Featured Engineering Projects
 
 <table>
