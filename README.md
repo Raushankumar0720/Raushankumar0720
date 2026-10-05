@@ -11,40 +11,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-0ea5e9?style=for-the-badge&logo=target&logoColor=white" alt="Open to Opportunities" />
-  <img src="https://komarev.com/ghpvc/?username=Raushankumar0720&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Core-Node.js%20%7C%20TypeScript%20%7C%20C%2B%2B-0d1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Core Stack" />
-  <img src="https://img.shields.io/badge/LeetCode-Active%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</p>
-
-<br />
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
-<h3 align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-  &nbsp;<strong>Hello, World! I'm Raushan</strong>
-</h3>
-
-<p>
-  I'm a <strong>Software Engineer</strong> focused on backend architecture, performant REST APIs, and algorithmic problem solving. I enjoy writing clean, modular code and understanding systems from the HTTP request lifecycle down to database aggregation pipelines.
-</p>
-
-<ul>
-  <li>🚀 <strong>Backend & APIs</strong>: Building scalable services with <strong>Node.js</strong>, <strong>Express</strong>, and <strong>TypeScript</strong> with clean MVC architecture.</li>
-  <li>🗄️ <strong>Data Pipelines</strong>: Designing multi-stage <strong>MongoDB aggregation pipelines</strong>, indexing strategies, and <strong>PostgreSQL</strong> schemas.</li>
-  <li>🧩 <strong>Problem Solving</strong>: Actively mastering Data Structures & Algorithms in <strong>C++</strong> with a daily streak on <strong>LeetCode</strong>.</li>
-  <li>🎥 <strong>Technical Creator</strong>: Sharing in-depth algorithmic walkthroughs, intuition, and code breakdowns on <strong>YouTube</strong>.</li>
-  <li>🛠️ <strong>System Standards</strong>: Enforcing secure JWT authentication, structured error handling, and <strong>Docker</strong> containerization.</li>
-</ul>
-
-<br />
-
-<h4 align="left">🌐 <strong>Let's Connect & Collaborate:</strong></h4>
-
-<p align="left">
   <a href="https://raushankumar-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -61,13 +27,6 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
-
-   </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="assets/developer_animation.gif" style="width:100%;max-width:390px;border-radius:12px;box-shadow:0 10px 30px rgba(0,240,255,0.15);border:1px solid #1e293b;" alt="Raushan Kumar Developer Animation" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
