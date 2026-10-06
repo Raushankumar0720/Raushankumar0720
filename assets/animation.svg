@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="564" height="676" viewBox="0 0 564 676" font-family="'SFMono-Regular','Consolas','Liberation Mono',monospace">
   <defs>
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%" gradientTransform="rotate(0 .5 .5)">
-      <stop offset="0%" stop-color="#00F0FF"/>
-      <stop offset="50%" stop-color="#0EA5E9"/>
-      <stop offset="100%" stop-color="#3B82F6"/>
+      <stop offset="0%" stop-color="#C084FC"/>
+      <stop offset="50%" stop-color="#8E2DE2"/>
+      <stop offset="100%" stop-color="#4A00E0"/>
       <animateTransform attributeName="gradientTransform" type="rotate"
         from="0 .5 .5" to="360 .5 .5" dur="16s" repeatCount="indefinite"/>
     </linearGradient>

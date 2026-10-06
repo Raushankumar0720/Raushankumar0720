@@ -1,21 +1,21 @@
 <!-- Profile README for Raushan Kumar -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0369a1,80:0ea5e9,100:00f0ff&height=210&section=header&text=RAUSHAN%20KUMAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Node.js%20%7C%20TypeScript%20%7C%20MERN%20%7C%20C%2B%2B%20(DSA)&descFontSize=17&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Raushan Kumar Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:3B82F6&height=220&section=header&text=RAUSHAN%20KUMAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Node.js%20%7C%20TypeScript%20%7C%20MERN%20%7C%20C%2B%2B%20(DSA)&descFontSize=17&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Raushan Kumar Banner" />
 </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Raushan+Kumar;Software+Engineer+%7C+Backend+%26+MERN;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Express+%E2%80%A2+React;Problem+Solving+%26+LeetCode+in+C%2B%2B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Raushan+Kumar;Software+Engineer+%7C+Backend+%26+MERN;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Express+%E2%80%A2+React;Problem+Solving+%26+LeetCode+in+C%2B%2B" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
   <a href="https://raushankumar-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/raushan150720/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/raushankumar150720/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="assets/brand/divider.svg" width="100%" height="12" alt="Divider" />
 </p>
 
 <!-- ═══════════════════════ SHORT VERSION ═══════════════════════ -->
@@ -46,7 +46,7 @@
 <br />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="assets/brand/divider.svg" width="100%" height="12" alt="Divider" />
 </p>
 
 <div align="center">
@@ -62,7 +62,7 @@
     <tbody align="center">
       <tr>
         <td>
-          <img src="https://komarev.com/ghpvc/?username=Raushankumar0720&label=Views&color=0ea5e9&style=flat-square" alt="Views" />
+          <img src="https://komarev.com/ghpvc/?username=Raushankumar0720&label=Views&color=8B5CF6&style=flat-square" alt="Views" />
         </td>
         <td>
           <a href="https://github.com/Raushankumar0720?tab=followers">
@@ -85,10 +85,12 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="assets/brand/divider.svg" width="100%" height="12" alt="Divider" />
 </p>
 
-## 🛠️ Tech Stack & Arsenal
+<p align="left">
+  <img src="assets/brand/h-arsenal.svg?v=2" height="46" alt="Arsenal" />
+</p>
 
 ### **Languages**
 <p>
@@ -137,10 +139,12 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="assets/brand/divider.svg" width="100%" height="12" alt="Divider" />
 </p>
 
-## 🚀 Featured Engineering Projects
+<p align="left">
+  <img src="assets/brand/h-building.svg?v=2" height="46" alt="What I'm Building" />
+</p>
 
 <table>
   <tr>
@@ -186,7 +190,7 @@
       <p>
         <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI%20Auditing-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20Auditing-8B5CF6?style=flat-square" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
       <ul>
@@ -203,7 +207,7 @@
         <img src="https://img.shields.io/badge/React%2019-61dafb?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
         <img src="https://img.shields.io/badge/Vite-936cff?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/SEO%20Optimized-0284c7?style=flat-square" />
+        <img src="https://img.shields.io/badge/SEO%20Optimized-8B5CF6?style=flat-square" />
       </p>
       <ul>
         <li><b>Multi-Theme Architecture</b>: 5 bespoke design palettes including Apple-inspired and Industrial themes.</li>
@@ -216,10 +220,12 @@
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="assets/brand/divider.svg" width="100%" height="12" alt="Divider" />
 </p>
 
-## 📊 GitHub Arsenal & Activity
+<p align="left">
+  <img src="assets/brand/h-proof.svg?v=2" height="46" alt="Proof of Work" />
+</p>
 
 <div align="center">
   <a href="https://github.com/Raushankumar0720">
@@ -229,16 +235,16 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Raushankumar0720&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=0EA5E9&text_color=94A3B8&bg_color=0D1117" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Raushankumar0720&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=94A3B8&bg_color=0D1117" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Raushankumar0720&show_icons=true&theme=tokyonight&hide_border=true&title_color=C084FC&icon_color=C084FC&text_color=94A3B8&bg_color=0D1117" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Raushankumar0720&layout=compact&theme=tokyonight&hide_border=true&title_color=C084FC&text_color=94A3B8&bg_color=0D1117" height="175" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raushankumar0720&theme=tokyonight&border=0D1117&fire=00F0FF&ring=0EA5E9&currStreakLabel=00F0FF&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Raushankumar0720&theme=tokyonight&border=4C1D95&fire=C084FC&ring=8B5CF6&currStreakLabel=A855F7&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="assets/brand/divider.svg" width="100%" height="12" alt="Divider" />
 </p>
 
 ## 🧩 Problem Solving & Algorithmic Rigor
@@ -254,10 +260,12 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="assets/brand/divider.svg" width="100%" height="12" alt="Divider" />
 </p>
 
-## 🎥 Building in Public (YouTube Channel)
+<p align="left">
+  <img src="assets/brand/h-creator.svg?v=2" height="46" alt="Beyond the Code" />
+</p>
 
 I create in-depth video walkthroughs explaining intuition, data structure selection, and optimal time/space complexity analysis in C++.
 
@@ -289,7 +297,7 @@ I create in-depth video walkthroughs explaining intuition, data structure select
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="assets/brand/divider.svg" width="100%" height="12" alt="Divider" />
 </p>
 
 ## 🐍 Contribution Grid Snake
@@ -299,11 +307,11 @@ I create in-depth video walkthroughs explaining intuition, data structure select
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="assets/brand/divider.svg" width="100%" height="12" alt="Divider" />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0284c7,100:00f0ff&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%80%A2%20Let's%20build%20something%20great.&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:3B82F6&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%80%A2%20Let's%20build%20something%20great.&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer Wave" />
   
   <sub>Crafted with discipline, caffeine & clean code • © 2026 Raushan Kumar</sub>
 </div>
